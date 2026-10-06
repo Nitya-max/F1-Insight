@@ -1,0 +1,832 @@
+year,round,race_name,date,circuitRef,driverRef,constructorRef,grid,finish_position,dnf,points,driver_name,driver_code,constructor_name,status,race_time,fastest_lap_rank
+2025,1,Australian Grand Prix,2025-03-16,albert_park,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:42:06.304,1.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,max_verstappen,red_bull,3,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+0.895,3.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,russell,mercedes,4,3,0,15.0,George Russell,RUS,Mercedes,Finished,+8.481,11.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,antonelli,mercedes,16,4,0,12.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+10.135,9.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,albon,williams,6,5,0,10.0,Alexander Albon,ALB,Williams,Finished,+12.773,8.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,stroll,aston_martin,13,6,0,8.0,Lance Stroll,STR,Aston Martin,Finished,+17.413,14.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,hulkenberg,sauber,17,7,0,6.0,Nico Hülkenberg,HUL,Sauber,Finished,+18.423,12.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,leclerc,ferrari,7,8,0,4.0,Charles Leclerc,LEC,Ferrari,Finished,+19.826,13.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,piastri,mclaren,2,9,0,2.0,Oscar Piastri,PIA,McLaren,Finished,+20.448,4.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,hamilton,ferrari,8,10,0,1.0,Lewis Hamilton,HAM,Ferrari,Finished,+22.473,7.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,gasly,alpine,9,11,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+26.502,10.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,tsunoda,rb,5,12,0,0.0,Yuki Tsunoda,TSU,RB F1 Team,Finished,+29.884,6.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,ocon,haas,19,13,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+33.161,15.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,bearman,haas,20,14,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+40.351,16.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,lawson,red_bull,18,15,1,0.0,Liam Lawson,LAW,Red Bull,Retired,,2.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,bortoleto,sauber,15,16,1,0.0,Gabriel Bortoleto,BOR,Sauber,Retired,,5.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,alonso,aston_martin,12,17,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,17.0
+2025,1,Australian Grand Prix,2025-03-16,albert_park,sainz,williams,10,18,1,0.0,Carlos Sainz,SAI,Williams,Retired,,
+2025,1,Australian Grand Prix,2025-03-16,albert_park,doohan,alpine,14,19,1,0.0,Jack Doohan,DOO,Alpine F1 Team,Retired,,
+2025,1,Australian Grand Prix,2025-03-16,albert_park,hadjar,rb,11,20,1,0.0,Isack Hadjar,HAD,RB F1 Team,Retired,,
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,piastri,mclaren,1,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:30:55.026,3.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,norris,mclaren,3,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+9.748,1.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,russell,mercedes,2,3,0,15.0,George Russell,RUS,Mercedes,Finished,+11.097,5.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,max_verstappen,red_bull,4,4,0,12.0,Max Verstappen,VER,Red Bull,Finished,+16.656,2.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,ocon,haas,11,5,0,10.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+49.969,4.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,antonelli,mercedes,8,6,0,8.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+53.748,11.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,albon,williams,10,7,0,6.0,Alexander Albon,ALB,Williams,Finished,+56.321,12.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,bearman,haas,17,8,0,4.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:01.303,13.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,stroll,aston_martin,14,9,0,2.0,Lance Stroll,STR,Aston Martin,Finished,+1:10.204,10.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,sainz,williams,15,10,0,1.0,Carlos Sainz,SAI,Williams,Finished,+1:16.387,15.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,hadjar,rb,7,11,0,0.0,Isack Hadjar,HAD,RB F1 Team,Finished,+1:18.875,6.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,lawson,red_bull,20,12,0,0.0,Liam Lawson,LAW,Red Bull,Finished,+1:21.147,9.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,doohan,alpine,18,13,0,0.0,Jack Doohan,DOO,Alpine F1 Team,Finished,+1:28.401,14.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,bortoleto,sauber,19,14,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+10.756,8.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,hulkenberg,sauber,12,15,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+20.226,16.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,tsunoda,rb,9,16,0,0.0,Yuki Tsunoda,TSU,RB F1 Team,Lapped,+23.511,7.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,alonso,aston_martin,13,17,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,17.0
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,leclerc,ferrari,6,18,1,0.0,Charles Leclerc,LEC,Ferrari,Disqualified,,
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,hamilton,ferrari,5,19,1,0.0,Lewis Hamilton,HAM,Ferrari,Disqualified,,
+2025,2,Chinese Grand Prix,2025-03-23,shanghai,gasly,alpine,16,20,1,0.0,Pierre Gasly,GAS,Alpine F1 Team,Disqualified,,
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:22:06.983,3.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,norris,mclaren,2,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+1.423,5.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,piastri,mclaren,3,3,0,15.0,Oscar Piastri,PIA,McLaren,Finished,+2.129,2.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,leclerc,ferrari,4,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+16.097,10.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,russell,mercedes,5,5,0,10.0,George Russell,RUS,Mercedes,Finished,+17.362,8.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,antonelli,mercedes,6,6,0,8.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+18.671,1.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,hamilton,ferrari,8,7,0,6.0,Lewis Hamilton,HAM,Ferrari,Finished,+29.182,9.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,hadjar,rb,7,8,0,4.0,Isack Hadjar,HAD,RB F1 Team,Finished,+37.134,7.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,albon,williams,9,9,0,2.0,Alexander Albon,ALB,Williams,Finished,+40.367,6.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,bearman,haas,10,10,0,1.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+54.529,15.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,alonso,aston_martin,12,11,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+57.333,11.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,tsunoda,red_bull,14,12,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+58.401,13.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,gasly,alpine,11,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+1:02.122,12.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,sainz,williams,15,14,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:14.129,4.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,doohan,alpine,19,15,0,0.0,Jack Doohan,DOO,Alpine F1 Team,Finished,+1:21.314,20.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,hulkenberg,sauber,16,16,0,0.0,Nico Hülkenberg,HUL,Sauber,Finished,+1:21.957,19.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,lawson,rb,13,17,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:22.734,17.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,ocon,haas,18,18,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:23.438,14.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,bortoleto,sauber,17,19,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:23.897,16.0
+2025,3,Japanese Grand Prix,2025-04-06,suzuka,stroll,aston_martin,20,20,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+12.929,18.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,piastri,mclaren,1,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:35:39.435,1.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,russell,mercedes,3,2,0,18.0,George Russell,RUS,Mercedes,Finished,+15.499,2.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,norris,mclaren,6,3,0,15.0,Lando Norris,NOR,McLaren,Finished,+16.273,3.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,leclerc,ferrari,2,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+19.679,4.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,hamilton,ferrari,9,5,0,10.0,Lewis Hamilton,HAM,Ferrari,Finished,+27.993,6.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,max_verstappen,red_bull,7,6,0,8.0,Max Verstappen,VER,Red Bull,Finished,+34.395,5.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,gasly,alpine,4,7,0,6.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+36.002,7.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,ocon,haas,14,8,0,4.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+44.244,12.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,tsunoda,red_bull,10,9,0,2.0,Yuki Tsunoda,TSU,Red Bull,Finished,+45.061,14.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,bearman,haas,20,10,0,1.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+47.594,15.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,antonelli,mercedes,5,11,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+48.016,9.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,albon,williams,15,12,0,0.0,Alexander Albon,ALB,Williams,Finished,+48.839,13.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,hadjar,rb,12,13,0,0.0,Isack Hadjar,HAD,RB F1 Team,Finished,+56.314,10.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,doohan,alpine,11,14,0,0.0,Jack Doohan,DOO,Alpine F1 Team,Finished,+57.806,8.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,alonso,aston_martin,13,15,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:00.340,17.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,lawson,rb,17,16,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:04.435,16.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,stroll,aston_martin,19,17,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+1:05.489,19.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,bortoleto,sauber,18,18,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:06.872,18.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,sainz,williams,8,19,1,0.0,Carlos Sainz,SAI,Williams,Retired,,11.0
+2025,4,Bahrain Grand Prix,2025-04-13,bahrain,hulkenberg,sauber,16,20,1,0.0,Nico Hülkenberg,HUL,Sauber,Disqualified,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,piastri,mclaren,2,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:21:06.758,3.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,max_verstappen,red_bull,1,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+2.843,4.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,leclerc,ferrari,4,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+8.104,2.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,norris,mclaren,10,4,0,12.0,Lando Norris,NOR,McLaren,Finished,+9.196,1.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,russell,mercedes,3,5,0,10.0,George Russell,RUS,Mercedes,Finished,+27.236,9.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,antonelli,mercedes,5,6,0,8.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+34.688,5.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,hamilton,ferrari,7,7,0,6.0,Lewis Hamilton,HAM,Ferrari,Finished,+39.073,7.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,sainz,williams,6,8,0,4.0,Carlos Sainz,SAI,Williams,Finished,+1:04.630,6.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,albon,williams,11,9,0,2.0,Alexander Albon,ALB,Williams,Finished,+1:06.515,16.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,hadjar,rb,14,10,0,1.0,Isack Hadjar,HAD,RB F1 Team,Finished,+1:07.091,14.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,alonso,aston_martin,13,11,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:15.917,11.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,lawson,rb,12,12,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:18.451,10.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,bearman,haas,15,13,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:19.194,13.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,ocon,haas,19,14,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:39.723,17.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,hulkenberg,sauber,18,15,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+4.609,15.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,stroll,aston_martin,16,16,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+5.527,8.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,doohan,alpine,17,17,0,0.0,Jack Doohan,DOO,Alpine F1 Team,Lapped,+19.264,12.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,bortoleto,sauber,20,18,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+19.306,18.0
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,tsunoda,red_bull,8,19,1,0.0,Yuki Tsunoda,TSU,Red Bull,Retired,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,jeddah,gasly,alpine,9,20,1,0.0,Pierre Gasly,GAS,Alpine F1 Team,Retired,,
+2025,6,Miami Grand Prix,2025-05-04,miami,piastri,mclaren,4,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:28:51.587,2.0
+2025,6,Miami Grand Prix,2025-05-04,miami,norris,mclaren,2,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+4.630,1.0
+2025,6,Miami Grand Prix,2025-05-04,miami,russell,mercedes,5,3,0,15.0,George Russell,RUS,Mercedes,Finished,+37.644,3.0
+2025,6,Miami Grand Prix,2025-05-04,miami,max_verstappen,red_bull,1,4,0,12.0,Max Verstappen,VER,Red Bull,Finished,+39.956,5.0
+2025,6,Miami Grand Prix,2025-05-04,miami,albon,williams,7,5,0,10.0,Alexander Albon,ALB,Williams,Finished,+48.067,6.0
+2025,6,Miami Grand Prix,2025-05-04,miami,antonelli,mercedes,3,6,0,8.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+55.502,9.0
+2025,6,Miami Grand Prix,2025-05-04,miami,leclerc,ferrari,8,7,0,6.0,Charles Leclerc,LEC,Ferrari,Finished,+57.036,4.0
+2025,6,Miami Grand Prix,2025-05-04,miami,hamilton,ferrari,12,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+1:00.186,7.0
+2025,6,Miami Grand Prix,2025-05-04,miami,sainz,williams,6,9,0,2.0,Carlos Sainz,SAI,Williams,Finished,+1:00.577,8.0
+2025,6,Miami Grand Prix,2025-05-04,miami,tsunoda,red_bull,10,10,0,1.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:14.434,10.0
+2025,6,Miami Grand Prix,2025-05-04,miami,hadjar,rb,11,11,0,0.0,Isack Hadjar,HAD,RB F1 Team,Finished,+1:14.602,11.0
+2025,6,Miami Grand Prix,2025-05-04,miami,ocon,haas,9,12,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:22.006,13.0
+2025,6,Miami Grand Prix,2025-05-04,miami,gasly,alpine,20,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+1:30.445,14.0
+2025,6,Miami Grand Prix,2025-05-04,miami,hulkenberg,sauber,16,14,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+1.155,12.0
+2025,6,Miami Grand Prix,2025-05-04,miami,alonso,aston_martin,17,15,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+20.979,15.0
+2025,6,Miami Grand Prix,2025-05-04,miami,stroll,aston_martin,18,16,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+25.162,16.0
+2025,6,Miami Grand Prix,2025-05-04,miami,lawson,rb,15,17,1,0.0,Liam Lawson,LAW,RB F1 Team,Retired,,17.0
+2025,6,Miami Grand Prix,2025-05-04,miami,bortoleto,sauber,13,18,1,0.0,Gabriel Bortoleto,BOR,Sauber,Retired,,18.0
+2025,6,Miami Grand Prix,2025-05-04,miami,bearman,haas,19,19,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,19.0
+2025,6,Miami Grand Prix,2025-05-04,miami,doohan,alpine,14,20,1,0.0,Jack Doohan,DOO,Alpine F1 Team,Retired,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,max_verstappen,red_bull,2,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:31:33.199,1.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,norris,mclaren,4,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+6.109,4.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,piastri,mclaren,1,3,0,15.0,Oscar Piastri,PIA,McLaren,Finished,+12.956,5.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,hamilton,ferrari,12,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+14.356,2.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,albon,williams,7,5,0,10.0,Alexander Albon,ALB,Williams,Finished,+17.945,3.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,leclerc,ferrari,11,6,0,8.0,Charles Leclerc,LEC,Ferrari,Finished,+20.774,6.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,russell,mercedes,3,7,0,6.0,George Russell,RUS,Mercedes,Finished,+22.034,9.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,sainz,williams,6,8,0,4.0,Carlos Sainz,SAI,Williams,Finished,+22.898,10.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,hadjar,rb,9,9,0,2.0,Isack Hadjar,HAD,RB F1 Team,Finished,+23.586,7.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,tsunoda,red_bull,20,10,0,1.0,Yuki Tsunoda,TSU,Red Bull,Finished,+26.446,12.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,alonso,aston_martin,5,11,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+27.250,11.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,hulkenberg,sauber,17,12,0,0.0,Nico Hülkenberg,HUL,Sauber,Finished,+30.296,15.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,gasly,alpine,10,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+31.424,14.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,lawson,rb,15,14,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+32.511,16.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,stroll,aston_martin,8,15,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+32.993,17.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,colapinto,alpine,16,16,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+33.411,13.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,bearman,haas,19,17,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+33.808,8.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,bortoleto,sauber,14,18,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+38.572,19.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,antonelli,mercedes,13,19,1,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Retired,,18.0
+2025,7,Emilia Romagna Grand Prix,2025-05-18,imola,ocon,haas,18,20,1,0.0,Esteban Ocon,OCO,Haas F1 Team,Retired,,20.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:40:33.843,1.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,leclerc,ferrari,2,2,0,18.0,Charles Leclerc,LEC,Ferrari,Finished,+3.131,6.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,piastri,mclaren,3,3,0,15.0,Oscar Piastri,PIA,McLaren,Finished,+3.658,4.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,max_verstappen,red_bull,4,4,0,12.0,Max Verstappen,VER,Red Bull,Finished,+20.572,8.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,hamilton,ferrari,7,5,0,10.0,Lewis Hamilton,HAM,Ferrari,Finished,+51.387,7.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,hadjar,rb,5,6,0,8.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+1:05.082,19.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,ocon,haas,8,7,0,6.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+1:06.029,14.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,lawson,rb,9,8,0,4.0,Liam Lawson,LAW,RB F1 Team,Lapped,+1:06.746,17.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,albon,williams,10,9,0,2.0,Alexander Albon,ALB,Williams,Lapped,+11.869,9.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,sainz,williams,11,10,0,1.0,Carlos Sainz,SAI,Williams,Lapped,+15.232,5.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,russell,mercedes,14,11,0,0.0,George Russell,RUS,Mercedes,Lapped,+33.844,2.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,bearman,haas,20,12,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+54.693,10.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,colapinto,alpine,18,13,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+57.114,16.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,bortoleto,sauber,16,14,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+1:08.424,12.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,stroll,aston_martin,19,15,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+1:10.395,11.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,hulkenberg,sauber,13,16,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+1:11.544,15.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,tsunoda,red_bull,12,17,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+1:11.849,13.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,antonelli,mercedes,15,18,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Lapped,+8.409,3.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,alonso,aston_martin,6,19,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,18.0
+2025,8,Monaco Grand Prix,2025-05-25,monaco,gasly,alpine,17,20,1,0.0,Pierre Gasly,GAS,Alpine F1 Team,Retired,,20.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,piastri,mclaren,1,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:32:57.375,1.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,norris,mclaren,2,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+2.471,2.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,leclerc,ferrari,7,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+10.455,5.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,russell,mercedes,4,4,0,12.0,George Russell,RUS,Mercedes,Finished,+11.359,4.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,hulkenberg,sauber,15,5,0,10.0,Nico Hülkenberg,HUL,Sauber,Finished,+13.648,6.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,hamilton,ferrari,5,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+15.508,7.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,hadjar,rb,9,7,0,6.0,Isack Hadjar,HAD,RB F1 Team,Finished,+16.022,8.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,gasly,alpine,8,8,0,4.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+17.882,9.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,alonso,aston_martin,10,9,0,2.0,Fernando Alonso,ALO,Aston Martin,Finished,+21.564,11.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,max_verstappen,red_bull,3,10,0,1.0,Max Verstappen,VER,Red Bull,Finished,+21.826,3.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,lawson,rb,13,11,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+25.532,18.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,bortoleto,sauber,12,12,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+25.996,13.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,tsunoda,red_bull,19,13,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+28.822,10.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,sainz,williams,17,14,0,0.0,Carlos Sainz,SAI,Williams,Finished,+29.309,17.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,colapinto,alpine,18,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+31.381,14.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,ocon,haas,16,16,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+32.197,15.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,bearman,haas,14,17,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+37.065,16.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,antonelli,mercedes,6,18,1,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Retired,,12.0
+2025,9,Spanish Grand Prix,2025-06-01,catalunya,albon,williams,11,19,1,0.0,Alexander Albon,ALB,Williams,Retired,,19.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,russell,mercedes,1,1,0,25.0,George Russell,RUS,Mercedes,Finished,1:31:52.688,1.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,max_verstappen,red_bull,2,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+0.228,5.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,antonelli,mercedes,4,3,0,15.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+1.014,7.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,piastri,mclaren,3,4,0,12.0,Oscar Piastri,PIA,McLaren,Finished,+2.109,3.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,leclerc,ferrari,8,5,0,10.0,Charles Leclerc,LEC,Ferrari,Finished,+3.442,4.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,hamilton,ferrari,5,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+10.713,9.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,alonso,aston_martin,6,7,0,6.0,Fernando Alonso,ALO,Aston Martin,Finished,+10.972,12.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,hulkenberg,sauber,11,8,0,4.0,Nico Hülkenberg,HUL,Sauber,Finished,+15.364,14.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,ocon,haas,14,9,0,2.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+1.473,8.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,sainz,williams,16,10,0,1.0,Carlos Sainz,SAI,Williams,Lapped,+1.886,6.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,bearman,haas,13,11,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+3.717,15.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,tsunoda,red_bull,18,12,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+5.456,13.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,colapinto,alpine,10,13,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+7.018,17.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,bortoleto,sauber,15,14,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+7.879,16.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,gasly,alpine,20,15,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+7.950,11.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,hadjar,rb,12,16,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+8.737,19.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,stroll,aston_martin,17,17,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+9.063,10.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,norris,mclaren,7,18,0,0.0,Lando Norris,NOR,McLaren,Retired,,2.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,lawson,rb,19,19,1,0.0,Liam Lawson,LAW,RB F1 Team,Retired,,20.0
+2025,10,Canadian Grand Prix,2025-06-15,villeneuve,albon,williams,9,20,1,0.0,Alexander Albon,ALB,Williams,Retired,,18.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:23:47.693,2.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,piastri,mclaren,3,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+2.695,1.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,leclerc,ferrari,2,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+19.820,4.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,hamilton,ferrari,4,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+29.020,3.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,russell,mercedes,5,5,0,10.0,George Russell,RUS,Mercedes,Finished,+1:02.396,7.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,lawson,rb,6,6,0,8.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:07.754,14.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,alonso,aston_martin,11,7,0,6.0,Fernando Alonso,ALO,Aston Martin,Lapped,+1.437,12.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,bortoleto,sauber,8,8,0,4.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+1.952,6.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,hulkenberg,sauber,20,9,0,2.0,Nico Hülkenberg,HUL,Sauber,Lapped,+7.720,8.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,ocon,haas,17,10,0,1.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+9.986,9.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,bearman,haas,15,11,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+24.854,13.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,hadjar,rb,13,12,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+27.957,16.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,gasly,alpine,10,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+33.055,15.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,stroll,aston_martin,16,14,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+34.462,5.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,colapinto,alpine,14,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+42.692,10.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,tsunoda,red_bull,18,16,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+2.979,11.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,albon,williams,12,17,1,0.0,Alexander Albon,ALB,Williams,Retired,,17.0
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,max_verstappen,red_bull,7,18,1,0.0,Max Verstappen,VER,Red Bull,Retired,,
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,antonelli,mercedes,9,19,1,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Retired,,
+2025,11,Austrian Grand Prix,2025-06-29,red_bull_ring,sainz,williams,19,20,1,0.0,Carlos Sainz,SAI,Williams,Did not start,,
+2025,12,British Grand Prix,2025-07-06,silverstone,norris,mclaren,3,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:37:15.735,2.0
+2025,12,British Grand Prix,2025-07-06,silverstone,piastri,mclaren,2,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+6.812,1.0
+2025,12,British Grand Prix,2025-07-06,silverstone,hulkenberg,sauber,19,3,0,15.0,Nico Hülkenberg,HUL,Sauber,Finished,+34.742,14.0
+2025,12,British Grand Prix,2025-07-06,silverstone,hamilton,ferrari,5,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+39.812,3.0
+2025,12,British Grand Prix,2025-07-06,silverstone,max_verstappen,red_bull,1,5,0,10.0,Max Verstappen,VER,Red Bull,Finished,+56.781,5.0
+2025,12,British Grand Prix,2025-07-06,silverstone,gasly,alpine,8,6,0,8.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+59.857,8.0
+2025,12,British Grand Prix,2025-07-06,silverstone,stroll,aston_martin,17,7,0,6.0,Lance Stroll,STR,Aston Martin,Finished,+1:00.603,15.0
+2025,12,British Grand Prix,2025-07-06,silverstone,albon,williams,13,8,0,4.0,Alexander Albon,ALB,Williams,Finished,+1:04.135,4.0
+2025,12,British Grand Prix,2025-07-06,silverstone,alonso,aston_martin,7,9,0,2.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:05.858,6.0
+2025,12,British Grand Prix,2025-07-06,silverstone,russell,mercedes,4,10,0,1.0,George Russell,RUS,Mercedes,Finished,+1:10.674,11.0
+2025,12,British Grand Prix,2025-07-06,silverstone,bearman,haas,18,11,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:12.095,13.0
+2025,12,British Grand Prix,2025-07-06,silverstone,sainz,williams,9,12,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:16.592,7.0
+2025,12,British Grand Prix,2025-07-06,silverstone,ocon,haas,14,13,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:17.301,9.0
+2025,12,British Grand Prix,2025-07-06,silverstone,leclerc,ferrari,6,14,0,0.0,Charles Leclerc,LEC,Ferrari,Finished,+1:24.477,10.0
+2025,12,British Grand Prix,2025-07-06,silverstone,tsunoda,red_bull,11,15,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+32.250,12.0
+2025,12,British Grand Prix,2025-07-06,silverstone,antonelli,mercedes,10,16,1,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Retired,,17.0
+2025,12,British Grand Prix,2025-07-06,silverstone,hadjar,rb,12,17,1,0.0,Isack Hadjar,HAD,RB F1 Team,Retired,,16.0
+2025,12,British Grand Prix,2025-07-06,silverstone,bortoleto,sauber,16,18,1,0.0,Gabriel Bortoleto,BOR,Sauber,Retired,,18.0
+2025,12,British Grand Prix,2025-07-06,silverstone,lawson,rb,15,19,1,0.0,Liam Lawson,LAW,RB F1 Team,Retired,,
+2025,12,British Grand Prix,2025-07-06,silverstone,colapinto,alpine,20,20,1,0.0,Franco Colapinto,COL,Alpine F1 Team,Did not start,,
+2025,13,Belgian Grand Prix,2025-07-27,spa,piastri,mclaren,2,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:25:22.601,4.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,norris,mclaren,1,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+3.415,3.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,leclerc,ferrari,3,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+20.185,9.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,max_verstappen,red_bull,4,4,0,12.0,Max Verstappen,VER,Red Bull,Finished,+21.731,7.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,russell,mercedes,6,5,0,10.0,George Russell,RUS,Mercedes,Finished,+34.863,11.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,albon,williams,5,6,0,8.0,Alexander Albon,ALB,Williams,Finished,+39.926,15.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,hamilton,ferrari,18,7,0,6.0,Lewis Hamilton,HAM,Ferrari,Finished,+40.679,10.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,lawson,rb,9,8,0,4.0,Liam Lawson,LAW,RB F1 Team,Finished,+52.033,12.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,bortoleto,sauber,10,9,0,2.0,Gabriel Bortoleto,BOR,Sauber,Finished,+56.434,16.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,gasly,alpine,13,10,0,1.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+1:12.714,17.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,bearman,haas,12,11,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:13.145,13.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,hulkenberg,sauber,14,12,0,0.0,Nico Hülkenberg,HUL,Sauber,Finished,+1:13.628,2.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,tsunoda,red_bull,7,13,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:15.395,19.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,stroll,aston_martin,16,14,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+1:19.831,18.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,ocon,haas,11,15,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:26.063,14.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,antonelli,mercedes,19,16,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+1:26.721,1.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,alonso,aston_martin,20,17,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:27.924,5.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,sainz,williams,17,18,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:32.024,6.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,colapinto,alpine,15,19,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+1:35.250,8.0
+2025,13,Belgian Grand Prix,2025-07-27,spa,hadjar,rb,8,20,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+12.942,20.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,norris,mclaren,3,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:35:21.231,5.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,piastri,mclaren,2,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+0.698,2.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,russell,mercedes,4,3,0,15.0,George Russell,RUS,Mercedes,Finished,+21.916,1.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,leclerc,ferrari,1,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+42.560,9.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,alonso,aston_martin,5,5,0,10.0,Fernando Alonso,ALO,Aston Martin,Finished,+59.040,8.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,bortoleto,sauber,7,6,0,8.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:06.169,11.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,stroll,aston_martin,6,7,0,6.0,Lance Stroll,STR,Aston Martin,Finished,+1:08.174,12.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,lawson,rb,9,8,0,4.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:09.451,10.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,max_verstappen,red_bull,8,9,0,2.0,Max Verstappen,VER,Red Bull,Finished,+1:12.645,3.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,antonelli,mercedes,15,10,0,1.0,Andrea Kimi Antonelli,ANT,Mercedes,Lapped,+7.649,13.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,hadjar,rb,10,11,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+8.500,15.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,hamilton,ferrari,12,12,0,0.0,Lewis Hamilton,HAM,Ferrari,Lapped,+9.861,7.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,hulkenberg,sauber,18,13,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+31.268,6.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,sainz,williams,13,14,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+33.326,4.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,albon,williams,19,15,0,0.0,Alexander Albon,ALB,Williams,Lapped,+38.111,14.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,ocon,haas,17,16,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+45.258,19.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,tsunoda,red_bull,20,17,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+46.943,17.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,colapinto,alpine,14,18,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+47.370,16.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,gasly,alpine,16,19,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+56.344,18.0
+2025,14,Hungarian Grand Prix,2025-08-03,hungaroring,bearman,haas,11,20,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,20.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,piastri,mclaren,1,1,0,25.0,Oscar Piastri,PIA,McLaren,Finished,1:38:29.849,1.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,max_verstappen,red_bull,3,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+1.271,3.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,hadjar,rb,4,3,0,15.0,Isack Hadjar,HAD,RB F1 Team,Finished,+3.233,5.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,russell,mercedes,5,4,0,12.0,George Russell,RUS,Mercedes,Finished,+5.654,9.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,albon,williams,15,5,0,10.0,Alexander Albon,ALB,Williams,Finished,+6.327,7.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,bearman,haas,20,6,0,8.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+9.044,13.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,stroll,aston_martin,19,7,0,6.0,Lance Stroll,STR,Aston Martin,Finished,+9.497,11.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,alonso,aston_martin,10,8,0,4.0,Fernando Alonso,ALO,Aston Martin,Finished,+11.709,8.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,tsunoda,red_bull,12,9,0,2.0,Yuki Tsunoda,TSU,Red Bull,Finished,+13.597,16.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,ocon,haas,18,10,0,1.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+14.063,14.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,colapinto,alpine,16,11,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+14.511,4.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,lawson,rb,8,12,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+17.063,12.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,sainz,williams,9,13,0,0.0,Carlos Sainz,SAI,Williams,Finished,+17.376,10.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,hulkenberg,sauber,17,14,0,0.0,Nico Hülkenberg,HUL,Sauber,Finished,+19.725,18.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,bortoleto,sauber,13,15,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+21.565,15.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,antonelli,mercedes,11,16,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+22.029,6.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,gasly,alpine,14,17,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+23.629,19.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,norris,mclaren,2,18,0,0.0,Lando Norris,NOR,McLaren,Retired,,2.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,leclerc,ferrari,6,19,1,0.0,Charles Leclerc,LEC,Ferrari,Retired,,17.0
+2025,15,Dutch Grand Prix,2025-08-31,zandvoort,hamilton,ferrari,7,20,1,0.0,Lewis Hamilton,HAM,Ferrari,Retired,,20.0
+2025,16,Italian Grand Prix,2025-09-07,monza,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:13:24.325,2.0
+2025,16,Italian Grand Prix,2025-09-07,monza,norris,mclaren,2,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+19.207,1.0
+2025,16,Italian Grand Prix,2025-09-07,monza,piastri,mclaren,3,3,0,15.0,Oscar Piastri,PIA,McLaren,Finished,+21.351,3.0
+2025,16,Italian Grand Prix,2025-09-07,monza,leclerc,ferrari,4,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+25.624,4.0
+2025,16,Italian Grand Prix,2025-09-07,monza,russell,mercedes,5,5,0,10.0,George Russell,RUS,Mercedes,Finished,+32.881,8.0
+2025,16,Italian Grand Prix,2025-09-07,monza,hamilton,ferrari,10,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+37.449,6.0
+2025,16,Italian Grand Prix,2025-09-07,monza,albon,williams,14,7,0,6.0,Alexander Albon,ALB,Williams,Finished,+50.537,5.0
+2025,16,Italian Grand Prix,2025-09-07,monza,bortoleto,sauber,7,8,0,4.0,Gabriel Bortoleto,BOR,Sauber,Finished,+58.484,12.0
+2025,16,Italian Grand Prix,2025-09-07,monza,antonelli,mercedes,6,9,0,2.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+59.762,10.0
+2025,16,Italian Grand Prix,2025-09-07,monza,hadjar,rb,19,10,0,1.0,Isack Hadjar,HAD,RB F1 Team,Finished,+1:03.891,11.0
+2025,16,Italian Grand Prix,2025-09-07,monza,sainz,williams,13,11,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:04.469,7.0
+2025,16,Italian Grand Prix,2025-09-07,monza,bearman,haas,11,12,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:19.288,9.0
+2025,16,Italian Grand Prix,2025-09-07,monza,tsunoda,red_bull,9,13,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:20.701,16.0
+2025,16,Italian Grand Prix,2025-09-07,monza,lawson,rb,18,14,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:22.351,17.0
+2025,16,Italian Grand Prix,2025-09-07,monza,ocon,haas,15,15,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+2.135,18.0
+2025,16,Italian Grand Prix,2025-09-07,monza,gasly,alpine,20,16,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+5.837,14.0
+2025,16,Italian Grand Prix,2025-09-07,monza,colapinto,alpine,17,17,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+7.448,15.0
+2025,16,Italian Grand Prix,2025-09-07,monza,stroll,aston_martin,16,18,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+9.301,13.0
+2025,16,Italian Grand Prix,2025-09-07,monza,alonso,aston_martin,8,19,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,19.0
+2025,16,Italian Grand Prix,2025-09-07,monza,hulkenberg,sauber,12,20,1,0.0,Nico Hülkenberg,HUL,Sauber,Did not start,,
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:33:26.408,1.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,russell,mercedes,5,2,0,18.0,George Russell,RUS,Mercedes,Finished,+14.609,2.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,sainz,williams,2,3,0,15.0,Carlos Sainz,SAI,Williams,Finished,+19.199,4.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,antonelli,mercedes,4,4,0,12.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+21.760,6.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,lawson,rb,3,5,0,10.0,Liam Lawson,LAW,RB F1 Team,Finished,+33.290,13.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,tsunoda,red_bull,6,6,0,8.0,Yuki Tsunoda,TSU,Red Bull,Finished,+33.808,12.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,norris,mclaren,7,7,0,6.0,Lando Norris,NOR,McLaren,Finished,+34.227,8.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,hamilton,ferrari,12,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+36.310,5.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,leclerc,ferrari,10,9,0,2.0,Charles Leclerc,LEC,Ferrari,Finished,+36.774,9.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,hadjar,rb,8,10,0,1.0,Isack Hadjar,HAD,RB F1 Team,Finished,+38.982,3.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,bortoleto,sauber,13,11,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:07.606,14.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,bearman,haas,15,12,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:08.262,10.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,albon,williams,19,13,0,0.0,Alexander Albon,ALB,Williams,Finished,+1:12.870,7.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,ocon,haas,20,14,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:17.580,17.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,alonso,aston_martin,11,15,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:18.707,15.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,hulkenberg,sauber,17,16,0,0.0,Nico Hülkenberg,HUL,Sauber,Finished,+1:20.237,11.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,stroll,aston_martin,14,17,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+1:36.392,16.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,gasly,alpine,18,18,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+3.865,18.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,colapinto,alpine,16,19,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+6.325,19.0
+2025,17,Azerbaijan Grand Prix,2025-09-21,baku,piastri,mclaren,9,20,1,0.0,Oscar Piastri,PIA,McLaren,Retired,,
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,russell,mercedes,1,1,0,25.0,George Russell,RUS,Mercedes,Finished,1:40:22.367,11.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,max_verstappen,red_bull,2,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+5.430,10.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,norris,mclaren,5,3,0,15.0,Lando Norris,NOR,McLaren,Finished,+6.066,7.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,piastri,mclaren,3,4,0,12.0,Oscar Piastri,PIA,McLaren,Finished,+8.146,6.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,antonelli,mercedes,4,5,0,10.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+33.681,4.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,leclerc,ferrari,7,6,0,8.0,Charles Leclerc,LEC,Ferrari,Finished,+45.996,14.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,alonso,aston_martin,10,7,0,6.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:20.667,13.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,hamilton,ferrari,6,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+1:25.251,1.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,bearman,haas,9,9,0,2.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:33.527,15.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,sainz,williams,18,10,0,1.0,Carlos Sainz,SAI,Williams,Lapped,+10.754,3.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,hadjar,rb,8,11,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+17.335,18.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,tsunoda,red_bull,13,12,0,0.0,Yuki Tsunoda,TSU,Red Bull,Lapped,+19.269,17.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,stroll,aston_martin,15,13,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+24.490,12.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,albon,williams,20,14,0,0.0,Alexander Albon,ALB,Williams,Lapped,+25.320,9.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,lawson,rb,12,15,0,0.0,Liam Lawson,LAW,RB F1 Team,Lapped,+27.145,8.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,colapinto,alpine,16,16,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+42.890,20.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,bortoleto,sauber,14,17,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+46.753,19.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,ocon,haas,17,18,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+47.133,16.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,gasly,alpine,19,19,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+47.461,2.0
+2025,18,Singapore Grand Prix,2025-10-05,marina_bay,hulkenberg,sauber,11,20,0,0.0,Nico Hülkenberg,HUL,Sauber,Lapped,+49.040,5.0
+2025,19,United States Grand Prix,2025-10-19,americas,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:34:00.161,3.0
+2025,19,United States Grand Prix,2025-10-19,americas,norris,mclaren,2,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+7.959,2.0
+2025,19,United States Grand Prix,2025-10-19,americas,leclerc,ferrari,3,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+15.373,5.0
+2025,19,United States Grand Prix,2025-10-19,americas,hamilton,ferrari,5,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+28.536,8.0
+2025,19,United States Grand Prix,2025-10-19,americas,piastri,mclaren,6,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+29.678,10.0
+2025,19,United States Grand Prix,2025-10-19,americas,russell,mercedes,4,6,0,8.0,George Russell,RUS,Mercedes,Finished,+33.456,4.0
+2025,19,United States Grand Prix,2025-10-19,americas,tsunoda,red_bull,13,7,0,6.0,Yuki Tsunoda,TSU,Red Bull,Finished,+52.714,13.0
+2025,19,United States Grand Prix,2025-10-19,americas,hulkenberg,sauber,11,8,0,4.0,Nico Hülkenberg,HUL,Sauber,Finished,+57.249,9.0
+2025,19,United States Grand Prix,2025-10-19,americas,bearman,haas,8,9,0,2.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:04.722,16.0
+2025,19,United States Grand Prix,2025-10-19,americas,alonso,aston_martin,10,10,0,1.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:10.001,12.0
+2025,19,United States Grand Prix,2025-10-19,americas,lawson,rb,12,11,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:13.209,14.0
+2025,19,United States Grand Prix,2025-10-19,americas,stroll,aston_martin,19,12,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+1:14.778,15.0
+2025,19,United States Grand Prix,2025-10-19,americas,antonelli,mercedes,7,13,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+1:15.746,1.0
+2025,19,United States Grand Prix,2025-10-19,americas,albon,williams,18,14,0,0.0,Alexander Albon,ALB,Williams,Finished,+1:20.000,7.0
+2025,19,United States Grand Prix,2025-10-19,americas,ocon,haas,17,15,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:23.043,18.0
+2025,19,United States Grand Prix,2025-10-19,americas,hadjar,rb,20,16,0,0.0,Isack Hadjar,HAD,RB F1 Team,Finished,+1:32.807,11.0
+2025,19,United States Grand Prix,2025-10-19,americas,colapinto,alpine,15,17,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+2.307,17.0
+2025,19,United States Grand Prix,2025-10-19,americas,bortoleto,sauber,16,18,0,0.0,Gabriel Bortoleto,BOR,Sauber,Lapped,+3.557,6.0
+2025,19,United States Grand Prix,2025-10-19,americas,gasly,alpine,14,19,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+6.155,19.0
+2025,19,United States Grand Prix,2025-10-19,americas,sainz,williams,9,20,1,0.0,Carlos Sainz,SAI,Williams,Retired,,20.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:37:58.574,8.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,leclerc,ferrari,2,2,0,18.0,Charles Leclerc,LEC,Ferrari,Finished,+30.324,14.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,max_verstappen,red_bull,5,3,0,15.0,Max Verstappen,VER,Red Bull,Finished,+31.049,10.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,bearman,haas,9,4,0,12.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+40.955,7.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,piastri,mclaren,7,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+42.065,3.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,antonelli,mercedes,6,6,0,8.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+47.837,9.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,russell,mercedes,4,7,0,6.0,George Russell,RUS,Mercedes,Finished,+50.287,1.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,hamilton,ferrari,3,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+56.446,6.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,ocon,haas,11,9,0,2.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:15.464,17.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,bortoleto,sauber,16,10,0,1.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:16.863,11.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,tsunoda,red_bull,10,11,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:19.048,13.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,albon,williams,17,12,0,0.0,Alexander Albon,ALB,Williams,Lapped,+2.450,4.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,hadjar,rb,8,13,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+6.656,16.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,stroll,aston_martin,19,14,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+7.035,5.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,gasly,alpine,18,15,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+44.080,18.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,colapinto,alpine,20,16,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+44.376,12.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,sainz,williams,12,17,0,0.0,Carlos Sainz,SAI,Williams,Retired,,2.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,alonso,aston_martin,14,18,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,15.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,hulkenberg,sauber,13,19,1,0.0,Nico Hülkenberg,HUL,Sauber,Retired,,19.0
+2025,20,Mexico City Grand Prix,2025-10-26,rodriguez,lawson,rb,15,20,1,0.0,Liam Lawson,LAW,RB F1 Team,Retired,,20.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:32:01.596,6.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,antonelli,mercedes,2,2,0,18.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+10.388,9.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,max_verstappen,red_bull,19,3,0,15.0,Max Verstappen,VER,Red Bull,Finished,+10.750,2.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,russell,mercedes,6,4,0,12.0,George Russell,RUS,Mercedes,Finished,+15.267,8.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,piastri,mclaren,4,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+15.749,3.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,bearman,haas,8,6,0,8.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+29.630,13.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,lawson,rb,7,7,0,6.0,Liam Lawson,LAW,RB F1 Team,Finished,+52.642,18.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,hadjar,rb,5,8,0,4.0,Isack Hadjar,HAD,RB F1 Team,Finished,+52.873,15.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,hulkenberg,sauber,10,9,0,2.0,Nico Hülkenberg,HUL,Sauber,Finished,+53.324,11.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,gasly,alpine,9,10,0,1.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+53.914,16.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,albon,williams,12,11,0,0.0,Alexander Albon,ALB,Williams,Finished,+54.184,1.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,ocon,haas,20,12,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+54.696,12.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,sainz,williams,15,13,0,0.0,Carlos Sainz,SAI,Williams,Finished,+55.420,14.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,alonso,aston_martin,11,14,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+55.766,10.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,colapinto,alpine,16,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+57.777,5.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,stroll,aston_martin,14,16,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+58.247,7.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,tsunoda,red_bull,17,17,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:09.176,4.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,hamilton,ferrari,13,18,1,0.0,Lewis Hamilton,HAM,Ferrari,Retired,,17.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,leclerc,ferrari,3,19,1,0.0,Charles Leclerc,LEC,Ferrari,Retired,,19.0
+2025,21,São Paulo Grand Prix,2025-11-09,interlagos,bortoleto,sauber,18,20,1,0.0,Gabriel Bortoleto,BOR,Sauber,Retired,,
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,max_verstappen,red_bull,2,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:21:08.429,1.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,russell,mercedes,4,2,0,18.0,George Russell,RUS,Mercedes,Finished,+23.546,9.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,antonelli,mercedes,17,3,0,15.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+30.488,2.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,leclerc,ferrari,9,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+30.678,3.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,sainz,williams,3,5,0,10.0,Carlos Sainz,SAI,Williams,Finished,+34.924,4.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,hadjar,rb,8,6,0,8.0,Isack Hadjar,HAD,RB F1 Team,Finished,+45.257,10.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,hulkenberg,sauber,11,7,0,6.0,Nico Hülkenberg,HUL,Sauber,Finished,+51.134,8.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,hamilton,ferrari,19,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+59.369,6.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,ocon,haas,13,9,0,2.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:00.635,7.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,bearman,haas,14,10,0,1.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:10.549,5.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,alonso,aston_martin,7,11,0,0.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:25.308,14.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,tsunoda,red_bull,20,12,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:26.974,12.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,gasly,alpine,10,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+1:31.702,15.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,lawson,rb,6,14,0,0.0,Liam Lawson,LAW,RB F1 Team,Lapped,+3.291,11.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,colapinto,alpine,15,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+10.459,16.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,albon,williams,16,16,1,0.0,Alexander Albon,ALB,Williams,Retired,,13.0
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,bortoleto,sauber,18,17,1,0.0,Gabriel Bortoleto,BOR,Sauber,Retired,,
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,stroll,aston_martin,12,18,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,norris,mclaren,1,19,1,0.0,Lando Norris,NOR,McLaren,Disqualified,,
+2025,22,Las Vegas Grand Prix,2025-11-23,vegas,piastri,mclaren,5,20,1,0.0,Oscar Piastri,PIA,McLaren,Disqualified,,
+2025,23,Qatar Grand Prix,2025-11-30,losail,max_verstappen,red_bull,3,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:24:38.241,5.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,piastri,mclaren,1,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+7.995,1.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,sainz,williams,7,3,0,15.0,Carlos Sainz,SAI,Williams,Finished,+22.665,6.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,norris,mclaren,2,4,0,12.0,Lando Norris,NOR,McLaren,Finished,+23.315,2.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,antonelli,mercedes,5,5,0,10.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+28.317,8.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,russell,mercedes,4,6,0,8.0,George Russell,RUS,Mercedes,Finished,+48.599,3.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,alonso,aston_martin,8,7,0,6.0,Fernando Alonso,ALO,Aston Martin,Finished,+54.045,7.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,leclerc,ferrari,10,8,0,4.0,Charles Leclerc,LEC,Ferrari,Finished,+56.785,13.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,lawson,rb,12,9,0,2.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:00.073,9.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,tsunoda,red_bull,15,10,0,1.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:01.770,10.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,albon,williams,14,11,0,0.0,Alexander Albon,ALB,Williams,Finished,+1:06.931,11.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,hamilton,ferrari,17,12,0,0.0,Lewis Hamilton,HAM,Ferrari,Finished,+1:17.730,14.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,bortoleto,sauber,19,13,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:24.812,17.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,colapinto,alpine,20,14,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+3.283,19.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,ocon,haas,16,15,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+4.253,16.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,gasly,alpine,9,16,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+4.941,18.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,stroll,aston_martin,18,17,0,0.0,Lance Stroll,STR,Aston Martin,Retired,,4.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,hadjar,rb,6,18,0,0.0,Isack Hadjar,HAD,RB F1 Team,Retired,,12.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,bearman,haas,13,19,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,15.0
+2025,23,Qatar Grand Prix,2025-11-30,losail,hulkenberg,sauber,11,20,1,0.0,Nico Hülkenberg,HUL,Sauber,Retired,,20.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:26:07.469,5.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,piastri,mclaren,3,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+12.594,2.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,norris,mclaren,2,3,0,15.0,Lando Norris,NOR,McLaren,Finished,+16.572,3.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,leclerc,ferrari,5,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+23.279,1.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,russell,mercedes,4,5,0,10.0,George Russell,RUS,Mercedes,Finished,+48.563,14.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,alonso,aston_martin,6,6,0,8.0,Fernando Alonso,ALO,Aston Martin,Finished,+1:07.562,11.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,ocon,haas,8,7,0,6.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:09.876,15.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,hamilton,ferrari,16,8,0,4.0,Lewis Hamilton,HAM,Ferrari,Finished,+1:12.670,10.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,hulkenberg,sauber,18,9,0,2.0,Nico Hülkenberg,HUL,Sauber,Finished,+1:19.014,4.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,stroll,aston_martin,15,10,0,1.0,Lance Stroll,STR,Aston Martin,Finished,+1:19.523,6.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,bortoleto,sauber,7,11,0,0.0,Gabriel Bortoleto,BOR,Sauber,Finished,+1:21.043,19.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,bearman,haas,11,12,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:21.166,17.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,sainz,williams,12,13,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:22.158,18.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,tsunoda,red_bull,10,14,0,0.0,Yuki Tsunoda,TSU,Red Bull,Finished,+1:23.794,13.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,antonelli,mercedes,14,15,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+1:24.399,9.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,albon,williams,17,16,0,0.0,Alexander Albon,ALB,Williams,Finished,+1:30.327,12.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,hadjar,rb,9,17,0,0.0,Isack Hadjar,HAD,RB F1 Team,Lapped,+1.327,20.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,lawson,rb,13,18,0,0.0,Liam Lawson,LAW,RB F1 Team,Lapped,+4.659,16.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,gasly,alpine,19,19,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+11.908,8.0
+2025,24,Abu Dhabi Grand Prix,2025-12-07,yas_marina,colapinto,alpine,20,20,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+14.003,7.0
+2026,1,Australian Grand Prix,2026-03-08,albert_park,russell,mercedes,1,1,0,25.0,George Russell,RUS,Mercedes,Finished,1:23:06.801,6
+2026,1,Australian Grand Prix,2026-03-08,albert_park,antonelli,mercedes,2,2,0,18.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+2.974,3
+2026,1,Australian Grand Prix,2026-03-08,albert_park,leclerc,ferrari,4,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+15.519,5
+2026,1,Australian Grand Prix,2026-03-08,albert_park,hamilton,ferrari,7,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+16.144,4
+2026,1,Australian Grand Prix,2026-03-08,albert_park,norris,mclaren,6,5,0,10.0,Lando Norris,NOR,McLaren,Finished,+51.741,2
+2026,1,Australian Grand Prix,2026-03-08,albert_park,max_verstappen,red_bull,20,6,0,8.0,Max Verstappen,VER,Red Bull,Finished,+54.617,1
+2026,1,Australian Grand Prix,2026-03-08,albert_park,bearman,haas,12,7,0,6.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+4.593,11
+2026,1,Australian Grand Prix,2026-03-08,albert_park,arvid_lindblad,rb,9,8,0,4.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+11.816,12
+2026,1,Australian Grand Prix,2026-03-08,albert_park,bortoleto,audi,10,9,0,2.0,Gabriel Bortoleto,BOR,Audi,Lapped,+12.775,8
+2026,1,Australian Grand Prix,2026-03-08,albert_park,gasly,alpine,14,10,0,1.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+29.027,15
+2026,1,Australian Grand Prix,2026-03-08,albert_park,ocon,haas,13,11,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+29.850,14
+2026,1,Australian Grand Prix,2026-03-08,albert_park,albon,williams,15,12,0,0.0,Alexander Albon,ALB,Williams,Lapped,+56.075,13
+2026,1,Australian Grand Prix,2026-03-08,albert_park,lawson,rb,8,13,0,0.0,Liam Lawson,LAW,RB F1 Team,Lapped,+57.173,10
+2026,1,Australian Grand Prix,2026-03-08,albert_park,colapinto,alpine,16,14,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+8.487,7
+2026,1,Australian Grand Prix,2026-03-08,albert_park,sainz,williams,21,15,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+36.886,9
+2026,1,Australian Grand Prix,2026-03-08,albert_park,perez,cadillac,18,16,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+7.850,19
+2026,1,Australian Grand Prix,2026-03-08,albert_park,stroll,aston_martin,22,17,1,0.0,Lance Stroll,STR,Aston Martin,Lapped,,17
+2026,1,Australian Grand Prix,2026-03-08,albert_park,alonso,aston_martin,17,18,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,18
+2026,1,Australian Grand Prix,2026-03-08,albert_park,bottas,cadillac,19,19,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,20
+2026,1,Australian Grand Prix,2026-03-08,albert_park,hadjar,red_bull,3,20,1,0.0,Isack Hadjar,HAD,Red Bull,Retired,,16
+2026,1,Australian Grand Prix,2026-03-08,albert_park,piastri,mclaren,5,21,1,0.0,Oscar Piastri,PIA,McLaren,Did not start,,
+2026,1,Australian Grand Prix,2026-03-08,albert_park,hulkenberg,audi,11,22,1,0.0,Nico Hülkenberg,HUL,Audi,Did not start,,
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,antonelli,mercedes,1,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:33:15.607,1
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,russell,mercedes,2,2,0,18.0,George Russell,RUS,Mercedes,Finished,+5.515,2
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,hamilton,ferrari,3,3,0,15.0,Lewis Hamilton,HAM,Ferrari,Finished,+25.267,5
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,leclerc,ferrari,4,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+28.894,4
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,bearman,haas,10,5,0,10.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+57.268,8
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,gasly,alpine,7,6,0,8.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+59.647,9
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,lawson,rb,14,7,0,6.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:20.588,12
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,hadjar,red_bull,9,8,0,4.0,Isack Hadjar,HAD,Red Bull,Finished,+1:27.247,13
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,sainz,williams,17,9,0,2.0,Carlos Sainz,SAI,Williams,Lapped,+11.673,14
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,colapinto,alpine,12,10,0,1.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+12.403,10
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,hulkenberg,audi,11,11,0,0.0,Nico Hülkenberg,HUL,Audi,Lapped,+21.109,7
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,arvid_lindblad,rb,15,12,0,0.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+22.828,6
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,bottas,cadillac,19,13,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+56.158,15
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,ocon,haas,13,14,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+1:06.256,3
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,perez,cadillac,21,15,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+1:14.641,16
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,max_verstappen,red_bull,8,16,1,0.0,Max Verstappen,VER,Red Bull,Retired,,11
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,alonso,aston_martin,18,17,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,17
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,stroll,aston_martin,20,18,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,18
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,piastri,mclaren,5,19,1,0.0,Oscar Piastri,PIA,McLaren,Did not start,,
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,norris,mclaren,6,20,1,0.0,Lando Norris,NOR,McLaren,Did not start,,
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,bortoleto,audi,16,21,1,0.0,Gabriel Bortoleto,BOR,Audi,Did not start,,
+2026,2,Chinese Grand Prix,2026-03-15,shanghai,albon,williams,22,22,1,0.0,Alexander Albon,ALB,Williams,Did not start,,
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,antonelli,mercedes,1,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:28:03.403,1
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,piastri,mclaren,3,2,0,18.0,Oscar Piastri,PIA,McLaren,Finished,+13.722,5
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,leclerc,ferrari,4,3,0,15.0,Charles Leclerc,LEC,Ferrari,Finished,+15.270,3
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,russell,mercedes,2,4,0,12.0,George Russell,RUS,Mercedes,Finished,+15.754,2
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,norris,mclaren,5,5,0,10.0,Lando Norris,NOR,McLaren,Finished,+23.479,6
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,hamilton,ferrari,6,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+25.037,4
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,gasly,alpine,7,7,0,6.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+32.340,9
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,max_verstappen,red_bull,11,8,0,4.0,Max Verstappen,VER,Red Bull,Finished,+32.677,8
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,lawson,rb,14,9,0,2.0,Liam Lawson,LAW,RB F1 Team,Finished,+50.180,13
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,ocon,haas,12,10,0,1.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+51.216,14
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,hulkenberg,audi,13,11,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+52.280,10
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,hadjar,red_bull,8,12,0,0.0,Isack Hadjar,HAD,Red Bull,Finished,+56.154,11
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,bortoleto,audi,9,13,0,0.0,Gabriel Bortoleto,BOR,Audi,Finished,+59.078,12
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,arvid_lindblad,rb,10,14,0,0.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+59.848,15
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,sainz,williams,16,15,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:05.008,17
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,colapinto,alpine,15,16,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+1:05.773,16
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,perez,cadillac,19,17,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Finished,+1:32.453,19
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,alonso,aston_martin,21,18,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+26.548,20
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,bottas,cadillac,20,19,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+42.621,21
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,albon,williams,17,20,0,0.0,Alexander Albon,ALB,Williams,Lapped,+5.067,7
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,stroll,aston_martin,22,21,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,22
+2026,3,Japanese Grand Prix,2026-03-29,suzuka,bearman,haas,18,22,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,18
+2026,4,Miami Grand Prix,2026-05-03,miami,antonelli,mercedes,1,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:33:19.273,3
+2026,4,Miami Grand Prix,2026-05-03,miami,norris,mclaren,4,2,0,18.0,Lando Norris,NOR,McLaren,Finished,+3.264,1
+2026,4,Miami Grand Prix,2026-05-03,miami,piastri,mclaren,7,3,0,15.0,Oscar Piastri,PIA,McLaren,Finished,+27.092,2
+2026,4,Miami Grand Prix,2026-05-03,miami,russell,mercedes,5,4,0,12.0,George Russell,RUS,Mercedes,Finished,+43.051,4
+2026,4,Miami Grand Prix,2026-05-03,miami,max_verstappen,red_bull,2,5,0,10.0,Max Verstappen,VER,Red Bull,Finished,+48.949,9
+2026,4,Miami Grand Prix,2026-05-03,miami,hamilton,ferrari,6,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+53.753,6
+2026,4,Miami Grand Prix,2026-05-03,miami,colapinto,alpine,8,7,0,6.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+1:01.871,8
+2026,4,Miami Grand Prix,2026-05-03,miami,leclerc,ferrari,3,8,0,4.0,Charles Leclerc,LEC,Ferrari,Finished,+1:04.245,5
+2026,4,Miami Grand Prix,2026-05-03,miami,sainz,williams,13,9,0,2.0,Carlos Sainz,SAI,Williams,Finished,+1:22.072,7
+2026,4,Miami Grand Prix,2026-05-03,miami,albon,williams,15,10,0,1.0,Alexander Albon,ALB,Williams,Finished,+1:30.972,13
+2026,4,Miami Grand Prix,2026-05-03,miami,bearman,haas,12,11,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+6.400,12
+2026,4,Miami Grand Prix,2026-05-03,miami,bortoleto,audi,21,12,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+9.353,10
+2026,4,Miami Grand Prix,2026-05-03,miami,ocon,haas,14,13,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+13.873,11
+2026,4,Miami Grand Prix,2026-05-03,miami,arvid_lindblad,rb,16,14,0,0.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+44.781,14
+2026,4,Miami Grand Prix,2026-05-03,miami,alonso,aston_martin,17,15,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+1:14.964,16
+2026,4,Miami Grand Prix,2026-05-03,miami,perez,cadillac,20,16,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+1:17.513,21
+2026,4,Miami Grand Prix,2026-05-03,miami,stroll,aston_martin,18,17,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+1:22.631,17
+2026,4,Miami Grand Prix,2026-05-03,miami,bottas,cadillac,19,18,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+1:08.255,22
+2026,4,Miami Grand Prix,2026-05-03,miami,hulkenberg,audi,10,19,1,0.0,Nico Hülkenberg,HUL,Audi,Retired,,15
+2026,4,Miami Grand Prix,2026-05-03,miami,lawson,rb,11,20,1,0.0,Liam Lawson,LAW,RB F1 Team,Retired,,18
+2026,4,Miami Grand Prix,2026-05-03,miami,gasly,alpine,9,21,1,0.0,Pierre Gasly,GAS,Alpine F1 Team,Retired,,20
+2026,4,Miami Grand Prix,2026-05-03,miami,hadjar,red_bull,22,22,1,0.0,Isack Hadjar,HAD,Red Bull,Retired,,19
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,antonelli,mercedes,2,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:28:15.758,1
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,hamilton,ferrari,5,2,0,18.0,Lewis Hamilton,HAM,Ferrari,Finished,+10.768,3
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,max_verstappen,red_bull,6,3,0,15.0,Max Verstappen,VER,Red Bull,Finished,+11.276,2
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,leclerc,ferrari,8,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+44.151,5
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,hadjar,red_bull,7,5,0,10.0,Isack Hadjar,HAD,Red Bull,Lapped,+5.033,4
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,colapinto,alpine,10,6,0,8.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+19.510,8
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,lawson,rb,12,7,0,6.0,Liam Lawson,LAW,RB F1 Team,Lapped,+34.235,10
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,gasly,alpine,14,8,0,4.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+34.572,6
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,sainz,williams,15,9,0,2.0,Carlos Sainz,SAI,Williams,Lapped,+58.014,12
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,bearman,haas,16,10,0,1.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+59.049,13
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,piastri,mclaren,4,11,0,0.0,Oscar Piastri,PIA,McLaren,Lapped,+12.699,7
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,hulkenberg,audi,11,12,0,0.0,Nico Hülkenberg,HUL,Audi,Lapped,+14.182,15
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,bortoleto,audi,13,13,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+21.156,14
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,ocon,haas,17,14,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+1:08.635,16
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,stroll,aston_martin,22,15,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+18.397,20
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,bottas,cadillac,21,16,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+53.390,19
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,perez,cadillac,20,17,1,0.0,Sergio Pérez,PER,Cadillac F1 Team,Retired,,17
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,norris,mclaren,3,18,1,0.0,Lando Norris,NOR,McLaren,Retired,,11
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,russell,mercedes,1,19,1,0.0,George Russell,RUS,Mercedes,Retired,,9
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,alonso,aston_martin,19,20,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,21
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,albon,williams,18,21,1,0.0,Alexander Albon,ALB,Williams,Retired,,18
+2026,5,Canadian Grand Prix,2026-05-24,villeneuve,arvid_lindblad,rb,9,22,1,0.0,Arvid Lindblad,LIN,RB F1 Team,Did not start,,
+2026,6,Monaco Grand Prix,2026-06-07,monaco,antonelli,mercedes,1,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,2:23:31.243,1
+2026,6,Monaco Grand Prix,2026-06-07,monaco,hamilton,ferrari,3,2,0,18.0,Lewis Hamilton,HAM,Ferrari,Finished,+6.271,2
+2026,6,Monaco Grand Prix,2026-06-07,monaco,hadjar,red_bull,5,3,0,15.0,Isack Hadjar,HAD,Red Bull,Finished,+23.394,4
+2026,6,Monaco Grand Prix,2026-06-07,monaco,piastri,mclaren,7,4,0,12.0,Oscar Piastri,PIA,McLaren,Finished,+24.261,7
+2026,6,Monaco Grand Prix,2026-06-07,monaco,lawson,rb,10,5,0,10.0,Liam Lawson,LAW,RB F1 Team,Finished,+26.553,5
+2026,6,Monaco Grand Prix,2026-06-07,monaco,arvid_lindblad,rb,15,6,0,8.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+29.010,8
+2026,6,Monaco Grand Prix,2026-06-07,monaco,gasly,alpine,9,7,0,6.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+30.369,3
+2026,6,Monaco Grand Prix,2026-06-07,monaco,albon,williams,11,8,0,4.0,Alexander Albon,ALB,Williams,Finished,+33.413,12
+2026,6,Monaco Grand Prix,2026-06-07,monaco,ocon,haas,17,9,0,2.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+37.140,15
+2026,6,Monaco Grand Prix,2026-06-07,monaco,alonso,aston_martin,21,10,0,1.0,Fernando Alonso,ALO,Aston Martin,Finished,+41.899,16
+2026,6,Monaco Grand Prix,2026-06-07,monaco,bortoleto,audi,16,11,0,0.0,Gabriel Bortoleto,BOR,Audi,Finished,+42.748,13
+2026,6,Monaco Grand Prix,2026-06-07,monaco,russell,mercedes,6,12,0,0.0,George Russell,RUS,Mercedes,Finished,+43.353,6
+2026,6,Monaco Grand Prix,2026-06-07,monaco,hulkenberg,audi,13,13,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+44.102,11
+2026,6,Monaco Grand Prix,2026-06-07,monaco,colapinto,alpine,14,14,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+48.964,10
+2026,6,Monaco Grand Prix,2026-06-07,monaco,perez,cadillac,18,15,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Finished,+49.153,14
+2026,6,Monaco Grand Prix,2026-06-07,monaco,sainz,williams,12,16,0,0.0,Carlos Sainz,SAI,Williams,Retired,,18
+2026,6,Monaco Grand Prix,2026-06-07,monaco,leclerc,ferrari,4,17,1,0.0,Charles Leclerc,LEC,Ferrari,Retired,,9
+2026,6,Monaco Grand Prix,2026-06-07,monaco,stroll,aston_martin,22,18,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,20
+2026,6,Monaco Grand Prix,2026-06-07,monaco,norris,mclaren,8,19,1,0.0,Lando Norris,NOR,McLaren,Retired,,17
+2026,6,Monaco Grand Prix,2026-06-07,monaco,bearman,haas,19,20,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,19
+2026,6,Monaco Grand Prix,2026-06-07,monaco,bottas,cadillac,20,21,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,21
+2026,6,Monaco Grand Prix,2026-06-07,monaco,max_verstappen,red_bull,2,22,1,0.0,Max Verstappen,VER,Red Bull,Retired,,
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,hamilton,ferrari,2,1,0,25.0,Lewis Hamilton,HAM,Ferrari,Finished,1:32:28.105,1
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,russell,mercedes,1,2,0,18.0,George Russell,RUS,Mercedes,Finished,+19.561,6
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,norris,mclaren,4,3,0,15.0,Lando Norris,NOR,McLaren,Finished,+23.719,4
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,max_verstappen,red_bull,5,4,0,12.0,Max Verstappen,VER,Red Bull,Finished,+40.497,3
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,piastri,mclaren,7,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+58.661,8
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,hadjar,red_bull,6,6,0,8.0,Isack Hadjar,HAD,Red Bull,Lapped,+24.627,2
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,gasly,alpine,14,7,0,6.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+55.789,13
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,lawson,rb,8,8,0,4.0,Liam Lawson,LAW,RB F1 Team,Lapped,+1:12.224,17
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,arvid_lindblad,rb,11,9,0,2.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+1:18.074,12
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,colapinto,alpine,13,10,0,1.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+1:19.867,16
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,bortoleto,audi,12,11,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+26.687,9
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,sainz,williams,16,12,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+27.866,14
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,ocon,haas,17,13,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+59.149,10
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,perez,cadillac,19,14,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+7.769,18
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,leclerc,ferrari,10,15,0,0.0,Charles Leclerc,LEC,Ferrari,Retired,,5
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,antonelli,mercedes,3,16,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Retired,,7
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,bearman,haas,15,17,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,15
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,albon,williams,18,18,1,0.0,Alexander Albon,ALB,Williams,Lapped,,11
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,alonso,aston_martin,22,19,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,20
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,hulkenberg,audi,9,20,1,0.0,Nico Hülkenberg,HUL,Audi,Retired,,19
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,bottas,cadillac,20,21,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,21
+2026,7,Barcelona Grand Prix,2026-06-14,catalunya,stroll,aston_martin,21,22,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,22
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,russell,mercedes,1,1,0,25.0,George Russell,RUS,Mercedes,Finished,1:26:37.979,6
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,max_verstappen,red_bull,5,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+1.611,2
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,antonelli,mercedes,4,3,0,15.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+1.986,1
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,piastri,mclaren,7,4,0,12.0,Oscar Piastri,PIA,McLaren,Finished,+21.809,3
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,hamilton,ferrari,3,5,0,10.0,Lewis Hamilton,HAM,Ferrari,Finished,+26.393,7
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,hadjar,red_bull,8,6,0,8.0,Isack Hadjar,HAD,Red Bull,Finished,+29.399,8
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,norris,mclaren,6,7,0,6.0,Lando Norris,NOR,McLaren,Finished,+31.505,5
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,leclerc,ferrari,2,8,0,4.0,Charles Leclerc,LEC,Ferrari,Finished,+45.659,4
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,lawson,rb,9,9,0,2.0,Liam Lawson,LAW,RB F1 Team,Lapped,+15.334,10
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,arvid_lindblad,rb,10,10,0,1.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+19.030,11
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,bortoleto,audi,12,11,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+30.315,14
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,hulkenberg,audi,14,12,0,0.0,Nico Hülkenberg,HUL,Audi,Lapped,+38.484,12
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,gasly,alpine,11,13,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+39.251,9
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,bearman,haas,13,14,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+1:02.677,15
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,colapinto,alpine,16,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+1:05.647,13
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,ocon,haas,15,16,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+25.932,17
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,albon,williams,18,17,0,0.0,Alexander Albon,ALB,Williams,Lapped,+28.082,18
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,alonso,aston_martin,21,18,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+4.833,16
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,stroll,aston_martin,22,19,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,20
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,sainz,williams,17,20,1,0.0,Carlos Sainz,SAI,Williams,Retired,,19
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,perez,cadillac,19,21,1,0.0,Sergio Pérez,PER,Cadillac F1 Team,Retired,,21
+2026,8,Austrian Grand Prix,2026-06-28,red_bull_ring,bottas,cadillac,20,22,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,
+2026,9,British Grand Prix,2026-07-05,silverstone,leclerc,ferrari,2,1,0,25.0,Charles Leclerc,LEC,Ferrari,Finished,1:27:11.335,8
+2026,9,British Grand Prix,2026-07-05,silverstone,russell,mercedes,4,2,0,18.0,George Russell,RUS,Mercedes,Finished,+0.427,5
+2026,9,British Grand Prix,2026-07-05,silverstone,hamilton,ferrari,3,3,0,15.0,Lewis Hamilton,HAM,Ferrari,Finished,+0.772,4
+2026,9,British Grand Prix,2026-07-05,silverstone,norris,mclaren,6,4,0,12.0,Lando Norris,NOR,McLaren,Finished,+1.149,6
+2026,9,British Grand Prix,2026-07-05,silverstone,hadjar,red_bull,5,5,0,10.0,Isack Hadjar,HAD,Red Bull,Finished,+1.598,3
+2026,9,British Grand Prix,2026-07-05,silverstone,lawson,rb,10,6,0,8.0,Liam Lawson,LAW,RB F1 Team,Finished,+2.023,12
+2026,9,British Grand Prix,2026-07-05,silverstone,arvid_lindblad,rb,9,7,0,6.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+2.214,11
+2026,9,British Grand Prix,2026-07-05,silverstone,bortoleto,audi,11,8,0,4.0,Gabriel Bortoleto,BOR,Audi,Finished,+2.413,13
+2026,9,British Grand Prix,2026-07-05,silverstone,colapinto,alpine,19,9,0,2.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+3.229,16
+2026,9,British Grand Prix,2026-07-05,silverstone,gasly,alpine,15,10,0,1.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+3.445,15
+2026,9,British Grand Prix,2026-07-05,silverstone,piastri,mclaren,8,11,0,0.0,Oscar Piastri,PIA,McLaren,Finished,+4.014,9
+2026,9,British Grand Prix,2026-07-05,silverstone,bearman,haas,13,12,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+5.245,17
+2026,9,British Grand Prix,2026-07-05,silverstone,ocon,haas,17,13,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+5.512,18
+2026,9,British Grand Prix,2026-07-05,silverstone,perez,cadillac,20,14,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Finished,+7.403,19
+2026,9,British Grand Prix,2026-07-05,silverstone,antonelli,mercedes,1,15,0,0.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+8.005,1
+2026,9,British Grand Prix,2026-07-05,silverstone,bottas,cadillac,18,16,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Finished,+8.162,21
+2026,9,British Grand Prix,2026-07-05,silverstone,sainz,williams,14,17,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+4.391,7
+2026,9,British Grand Prix,2026-07-05,silverstone,alonso,aston_martin,21,18,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+4.980,20
+2026,9,British Grand Prix,2026-07-05,silverstone,stroll,aston_martin,22,19,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+6.750,22
+2026,9,British Grand Prix,2026-07-05,silverstone,max_verstappen,red_bull,7,20,0,0.0,Max Verstappen,VER,Red Bull,Retired,,2
+2026,9,British Grand Prix,2026-07-05,silverstone,albon,williams,16,21,1,0.0,Alexander Albon,ALB,Williams,Retired,,14
+2026,9,British Grand Prix,2026-07-05,silverstone,hulkenberg,audi,12,22,1,0.0,Nico Hülkenberg,HUL,Audi,Retired,,10
+2026,10,Belgian Grand Prix,2026-07-19,spa,antonelli,mercedes,1,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:24:42.479,2
+2026,10,Belgian Grand Prix,2026-07-19,spa,leclerc,ferrari,4,2,0,18.0,Charles Leclerc,LEC,Ferrari,Finished,+1.952,4
+2026,10,Belgian Grand Prix,2026-07-19,spa,max_verstappen,red_bull,2,3,0,15.0,Max Verstappen,VER,Red Bull,Finished,+11.586,7
+2026,10,Belgian Grand Prix,2026-07-19,spa,hamilton,ferrari,5,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+17.245,5
+2026,10,Belgian Grand Prix,2026-07-19,spa,piastri,mclaren,6,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+18.988,6
+2026,10,Belgian Grand Prix,2026-07-19,spa,hadjar,red_bull,21,6,0,8.0,Isack Hadjar,HAD,Red Bull,Finished,+23.307,3
+2026,10,Belgian Grand Prix,2026-07-19,spa,norris,mclaren,13,7,0,6.0,Lando Norris,NOR,McLaren,Finished,+24.014,1
+2026,10,Belgian Grand Prix,2026-07-19,spa,bortoleto,audi,8,8,0,4.0,Gabriel Bortoleto,BOR,Audi,Finished,+49.140,8
+2026,10,Belgian Grand Prix,2026-07-19,spa,arvid_lindblad,rb,7,9,0,2.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+50.406,10
+2026,10,Belgian Grand Prix,2026-07-19,spa,colapinto,alpine,11,10,0,1.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+1:16.037,14
+2026,10,Belgian Grand Prix,2026-07-19,spa,gasly,alpine,10,11,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+1:16.991,12
+2026,10,Belgian Grand Prix,2026-07-19,spa,lawson,rb,9,12,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+1:17.523,11
+2026,10,Belgian Grand Prix,2026-07-19,spa,hulkenberg,audi,12,13,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+1:18.348,9
+2026,10,Belgian Grand Prix,2026-07-19,spa,bearman,haas,14,14,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:34.465,13
+2026,10,Belgian Grand Prix,2026-07-19,spa,albon,williams,15,15,0,0.0,Alexander Albon,ALB,Williams,Finished,+1:44.684,16
+2026,10,Belgian Grand Prix,2026-07-19,spa,sainz,williams,19,16,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:45.856,15
+2026,10,Belgian Grand Prix,2026-07-19,spa,ocon,haas,16,17,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+1:50.925,17
+2026,10,Belgian Grand Prix,2026-07-19,spa,bottas,cadillac,17,18,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+1:00.979,18
+2026,10,Belgian Grand Prix,2026-07-19,spa,alonso,aston_martin,22,19,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+20.848,19
+2026,10,Belgian Grand Prix,2026-07-19,spa,stroll,aston_martin,20,20,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,21
+2026,10,Belgian Grand Prix,2026-07-19,spa,perez,cadillac,18,21,1,0.0,Sergio Pérez,PER,Cadillac F1 Team,Retired,,20
+2026,10,Belgian Grand Prix,2026-07-19,spa,russell,mercedes,3,22,1,0.0,George Russell,RUS,Mercedes,Retired,,
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,1:39:56.180,4
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,max_verstappen,red_bull,4,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+15.080,8
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,antonelli,mercedes,7,3,0,15.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+18.728,3
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,leclerc,ferrari,2,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+23.840,1
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,hamilton,ferrari,5,5,0,10.0,Lewis Hamilton,HAM,Ferrari,Finished,+24.540,2
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,hadjar,red_bull,8,6,0,8.0,Isack Hadjar,HAD,Red Bull,Finished,+55.488,7
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,russell,mercedes,6,7,0,6.0,George Russell,RUS,Mercedes,Finished,+57.503,5
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,lawson,rb,11,8,0,4.0,Liam Lawson,LAW,RB F1 Team,Lapped,+28.033,11
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,hulkenberg,audi,10,9,0,2.0,Nico Hülkenberg,HUL,Audi,Lapped,+30.382,12
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,arvid_lindblad,rb,9,10,0,1.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+51.050,20
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,bortoleto,audi,14,11,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+52.028,15
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,gasly,alpine,12,12,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+53.429,6
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,stroll,aston_martin,20,13,0,0.0,Lance Stroll,STR,Aston Martin,Lapped,+1:03.828,14
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,alonso,aston_martin,16,14,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+1:06.052,9
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,colapinto,alpine,13,15,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+3.876,13
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,ocon,haas,15,16,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+12.859,19
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,albon,williams,19,17,0,0.0,Alexander Albon,ALB,Williams,Lapped,+52.729,17
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,sainz,williams,18,18,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+52.973,16
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,bearman,haas,17,19,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+57.198,18
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,piastri,mclaren,3,20,1,0.0,Oscar Piastri,PIA,McLaren,Retired,,10
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,perez,cadillac,22,21,1,0.0,Sergio Pérez,PER,Cadillac F1 Team,Retired,,21
+2026,11,Hungarian Grand Prix,2026-07-26,hungaroring,bottas,cadillac,21,22,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,22
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,norris,mclaren,1,1,0,25.0,Lando Norris,NOR,McLaren,Finished,2:04:44.859,3
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,antonelli,mercedes,3,2,0,18.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+11.536,5
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,russell,mercedes,2,3,0,15.0,George Russell,RUS,Mercedes,Finished,+15.906,6
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,hamilton,ferrari,5,4,0,12.0,Lewis Hamilton,HAM,Ferrari,Finished,+16.755,4
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,leclerc,ferrari,6,5,0,10.0,Charles Leclerc,LEC,Ferrari,Finished,+17.258,1
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,piastri,mclaren,4,6,0,8.0,Oscar Piastri,PIA,McLaren,Finished,+32.332,2
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,lawson,red_bull,8,7,0,6.0,Liam Lawson,LAW,Red Bull,Finished,+1:19.915,7
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,hulkenberg,audi,13,8,0,4.0,Nico Hülkenberg,HUL,Audi,Lapped,+36.049,10
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,alonso,aston_martin,18,9,0,2.0,Fernando Alonso,ALO,Aston Martin,Lapped,+48.393,14
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,gasly,alpine,11,10,0,1.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+49.640,11
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,tsunoda,rb,12,11,0,0.0,Yuki Tsunoda,TSU,RB F1 Team,Lapped,+54.322,12
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,arvid_lindblad,rb,10,12,0,0.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+1:05.680,13
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,bortoleto,audi,9,13,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+1:06.235,8
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,colapinto,alpine,14,14,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Lapped,+20.534,9
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,perez,cadillac,22,15,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+58.582,17
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,sainz,williams,17,16,0,0.0,Carlos Sainz,SAI,Williams,Lapped,+1:10.271,16
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,albon,williams,16,17,0,0.0,Alexander Albon,ALB,Williams,Retired,,15
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,bottas,cadillac,21,18,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,19
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,ocon,haas,15,19,1,0.0,Esteban Ocon,OCO,Haas F1 Team,Retired,,18
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,stroll,aston_martin,19,20,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,20
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,bearman,haas,20,21,1,0.0,Oliver Bearman,BEA,Haas F1 Team,Retired,,
+2026,12,Dutch Grand Prix,2026-08-23,zandvoort,max_verstappen,red_bull,7,22,1,0.0,Max Verstappen,VER,Red Bull,Retired,,
+2026,13,Italian Grand Prix,2026-09-06,monza,antonelli,mercedes,19,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:51:15.281,1
+2026,13,Italian Grand Prix,2026-09-06,monza,russell,mercedes,2,2,0,18.0,George Russell,RUS,Mercedes,Finished,+3.857,4
+2026,13,Italian Grand Prix,2026-09-06,monza,max_verstappen,red_bull,5,3,0,15.0,Max Verstappen,VER,Red Bull,Finished,+14.718,2
+2026,13,Italian Grand Prix,2026-09-06,monza,norris,mclaren,8,4,0,12.0,Lando Norris,NOR,McLaren,Finished,+19.056,5
+2026,13,Italian Grand Prix,2026-09-06,monza,piastri,mclaren,6,5,0,10.0,Oscar Piastri,PIA,McLaren,Finished,+19.253,8
+2026,13,Italian Grand Prix,2026-09-06,monza,hamilton,ferrari,4,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+24.655,9
+2026,13,Italian Grand Prix,2026-09-06,monza,gasly,alpine,1,7,0,6.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+27.351,6
+2026,13,Italian Grand Prix,2026-09-06,monza,arvid_lindblad,rb,9,8,0,4.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+45.136,14
+2026,13,Italian Grand Prix,2026-09-06,monza,colapinto,alpine,7,9,0,2.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+47.353,7
+2026,13,Italian Grand Prix,2026-09-06,monza,tsunoda,rb,15,10,0,1.0,Yuki Tsunoda,TSU,RB F1 Team,Finished,+58.187,16
+2026,13,Italian Grand Prix,2026-09-06,monza,bortoleto,audi,10,11,0,0.0,Gabriel Bortoleto,BOR,Audi,Finished,+1:05.187,15
+2026,13,Italian Grand Prix,2026-09-06,monza,hulkenberg,audi,12,12,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+1:06.187,3
+2026,13,Italian Grand Prix,2026-09-06,monza,sainz,williams,13,13,0,0.0,Carlos Sainz,SAI,Williams,Finished,+1:14.117,12
+2026,13,Italian Grand Prix,2026-09-06,monza,lawson,red_bull,22,14,0,0.0,Liam Lawson,LAW,Red Bull,Finished,+1:15.609,11
+2026,13,Italian Grand Prix,2026-09-06,monza,bearman,haas,11,15,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+1:18.958,17
+2026,13,Italian Grand Prix,2026-09-06,monza,ocon,haas,14,16,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+6.591,13
+2026,13,Italian Grand Prix,2026-09-06,monza,albon,williams,20,17,0,0.0,Alexander Albon,ALB,Williams,Lapped,+20.268,10
+2026,13,Italian Grand Prix,2026-09-06,monza,perez,cadillac,17,18,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Lapped,+1:13.372,18
+2026,13,Italian Grand Prix,2026-09-06,monza,bottas,cadillac,16,19,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+12.880,19
+2026,13,Italian Grand Prix,2026-09-06,monza,stroll,aston_martin,18,20,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,21
+2026,13,Italian Grand Prix,2026-09-06,monza,alonso,aston_martin,21,21,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,20
+2026,13,Italian Grand Prix,2026-09-06,monza,leclerc,ferrari,3,22,1,0.0,Charles Leclerc,LEC,Ferrari,Retired,,
+2026,14,Spanish Grand Prix,2026-09-13,madring,antonelli,mercedes,2,1,0,25.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,1:34:23.754,2
+2026,14,Spanish Grand Prix,2026-09-13,madring,max_verstappen,red_bull,3,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+4.351,5
+2026,14,Spanish Grand Prix,2026-09-13,madring,norris,mclaren,1,3,0,15.0,Lando Norris,NOR,McLaren,Finished,+5.089,4
+2026,14,Spanish Grand Prix,2026-09-13,madring,leclerc,ferrari,5,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+29.116,3
+2026,14,Spanish Grand Prix,2026-09-13,madring,russell,mercedes,6,5,0,10.0,George Russell,RUS,Mercedes,Finished,+29.829,1
+2026,14,Spanish Grand Prix,2026-09-13,madring,lawson,red_bull,8,6,0,8.0,Liam Lawson,LAW,Red Bull,Finished,+1:26.746,6
+2026,14,Spanish Grand Prix,2026-09-13,madring,colapinto,alpine,9,7,0,6.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+1:34.281,9
+2026,14,Spanish Grand Prix,2026-09-13,madring,piastri,mclaren,7,8,0,4.0,Oscar Piastri,PIA,McLaren,Finished,+1:35.839,7
+2026,14,Spanish Grand Prix,2026-09-13,madring,arvid_lindblad,rb,10,9,0,2.0,Arvid Lindblad,LIN,RB F1 Team,Lapped,+10.408,14
+2026,14,Spanish Grand Prix,2026-09-13,madring,hulkenberg,audi,11,10,0,1.0,Nico Hülkenberg,HUL,Audi,Lapped,+11.298,11
+2026,14,Spanish Grand Prix,2026-09-13,madring,ocon,haas,13,11,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Lapped,+15.143,12
+2026,14,Spanish Grand Prix,2026-09-13,madring,gasly,alpine,14,12,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Lapped,+26.152,13
+2026,14,Spanish Grand Prix,2026-09-13,madring,bortoleto,audi,12,13,0,0.0,Gabriel Bortoleto,BOR,Audi,Lapped,+28.389,10
+2026,14,Spanish Grand Prix,2026-09-13,madring,tsunoda,rb,15,14,0,0.0,Yuki Tsunoda,TSU,RB F1 Team,Lapped,+1:00.163,15
+2026,14,Spanish Grand Prix,2026-09-13,madring,albon,williams,16,15,0,0.0,Alexander Albon,ALB,Williams,Lapped,+1:26.212,18
+2026,14,Spanish Grand Prix,2026-09-13,madring,bearman,haas,22,16,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Lapped,+1:29.963,8
+2026,14,Spanish Grand Prix,2026-09-13,madring,alonso,aston_martin,17,17,0,0.0,Fernando Alonso,ALO,Aston Martin,Lapped,+33.776,16
+2026,14,Spanish Grand Prix,2026-09-13,madring,bottas,cadillac,19,18,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Lapped,+49.246,17
+2026,14,Spanish Grand Prix,2026-09-13,madring,sainz,williams,20,19,1,0.0,Carlos Sainz,SAI,Williams,Retired,,20
+2026,14,Spanish Grand Prix,2026-09-13,madring,perez,cadillac,18,20,1,0.0,Sergio Pérez,PER,Cadillac F1 Team,Retired,,21
+2026,14,Spanish Grand Prix,2026-09-13,madring,stroll,aston_martin,21,21,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,22
+2026,14,Spanish Grand Prix,2026-09-13,madring,hamilton,ferrari,4,22,1,0.0,Lewis Hamilton,HAM,Ferrari,Retired,,19
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,russell,mercedes,1,1,0,25.0,George Russell,RUS,Mercedes,Finished,1:38:02.143,1
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,max_verstappen,red_bull,8,2,0,18.0,Max Verstappen,VER,Red Bull,Finished,+0.196,2
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,hadjar,red_bull,4,3,0,15.0,Isack Hadjar,HAD,Red Bull,Finished,+10.704,4
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,leclerc,ferrari,2,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+14.136,5
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,antonelli,mercedes,16,5,0,10.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+14.512,3
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,hamilton,ferrari,6,6,0,8.0,Lewis Hamilton,HAM,Ferrari,Finished,+22.382,6
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,arvid_lindblad,rb,15,7,0,6.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+31.159,10
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,ocon,haas,13,8,0,4.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+31.189,14
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,bearman,haas,10,9,0,2.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+31.929,13
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,sainz,williams,14,10,0,1.0,Carlos Sainz,SAI,Williams,Finished,+32.416,9
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,hulkenberg,audi,18,11,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+33.231,11
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,lawson,rb,11,12,0,0.0,Liam Lawson,LAW,RB F1 Team,Finished,+34.013,12
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,piastri,mclaren,3,13,0,0.0,Oscar Piastri,PIA,McLaren,Finished,+36.401,8
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,perez,cadillac,20,14,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Finished,+41.400,15
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,bortoleto,audi,17,15,0,0.0,Gabriel Bortoleto,BOR,Audi,Finished,+44.230,7
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,bottas,cadillac,19,16,0,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,20
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,colapinto,alpine,9,17,1,0.0,Franco Colapinto,COL,Alpine F1 Team,Retired,,19
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,gasly,alpine,7,18,1,0.0,Pierre Gasly,GAS,Alpine F1 Team,Retired,,17
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,norris,mclaren,5,19,1,0.0,Lando Norris,NOR,McLaren,Retired,,16
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,albon,williams,12,20,1,0.0,Alexander Albon,ALB,Williams,Retired,,18
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,alonso,aston_martin,21,21,1,0.0,Fernando Alonso,ALO,Aston Martin,Retired,,21
+2026,15,Azerbaijan Grand Prix,2026-09-26,baku,stroll,aston_martin,22,22,1,0.0,Lance Stroll,STR,Aston Martin,Retired,,22
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,max_verstappen,red_bull,1,1,0,25.0,Max Verstappen,VER,Red Bull,Finished,1:47:14.808,1
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,antonelli,mercedes,3,2,0,18.0,Andrea Kimi Antonelli,ANT,Mercedes,Finished,+2.307,2
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,hamilton,ferrari,2,3,0,15.0,Lewis Hamilton,HAM,Ferrari,Finished,+4.919,3
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,leclerc,ferrari,4,4,0,12.0,Charles Leclerc,LEC,Ferrari,Finished,+7.258,4
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,hadjar,red_bull,8,5,0,10.0,Isack Hadjar,HAD,Red Bull,Finished,+8.571,6
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,piastri,mclaren,6,6,0,8.0,Oscar Piastri,PIA,McLaren,Finished,+9.454,5
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,lawson,rb,11,7,0,6.0,Liam Lawson,LAW,RB F1 Team,Finished,+12.753,8
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,alonso,aston_martin,12,8,0,4.0,Fernando Alonso,ALO,Aston Martin,Finished,+13.372,10
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,norris,mclaren,5,9,0,2.0,Lando Norris,NOR,McLaren,Finished,+13.993,7
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,arvid_lindblad,rb,22,10,0,1.0,Arvid Lindblad,LIN,RB F1 Team,Finished,+15.928,9
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,hulkenberg,audi,15,11,0,0.0,Nico Hülkenberg,HUL,Audi,Finished,+17.404,16
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,stroll,aston_martin,14,12,0,0.0,Lance Stroll,STR,Aston Martin,Finished,+18.052,14
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,colapinto,alpine,21,13,0,0.0,Franco Colapinto,COL,Alpine F1 Team,Finished,+18.997,13
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,bearman,haas,16,14,0,0.0,Oliver Bearman,BEA,Haas F1 Team,Finished,+22.305,11
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,ocon,haas,17,15,0,0.0,Esteban Ocon,OCO,Haas F1 Team,Finished,+22.532,19
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,gasly,alpine,9,16,0,0.0,Pierre Gasly,GAS,Alpine F1 Team,Finished,+23.315,17
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,sainz,williams,13,17,0,0.0,Carlos Sainz,SAI,Williams,Finished,+25.431,18
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,bortoleto,audi,10,18,0,0.0,Gabriel Bortoleto,BOR,Audi,Finished,+28.233,15
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,perez,cadillac,20,19,0,0.0,Sergio Pérez,PER,Cadillac F1 Team,Finished,+29.310,21
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,russell,mercedes,7,20,0,0.0,George Russell,RUS,Mercedes,Retired,,12
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,albon,williams,18,21,1,0.0,Alexander Albon,ALB,Williams,Retired,,20
+2026,16,Bahrain Grand Prix in Malaysia,2026-10-04,sepang,bottas,cadillac,19,22,1,0.0,Valtteri Bottas,BOT,Cadillac F1 Team,Retired,,22

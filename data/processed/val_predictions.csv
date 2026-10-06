@@ -1,0 +1,441 @@
+raceId,year,race_name,driverRef,grid_clean,finish_position,pred_best_rf
+1074,2022,Bahrain Grand Prix,hamilton,5,3,7.891701901689917
+1074,2022,Bahrain Grand Prix,alonso,8,9,8.40072490066837
+1074,2022,Bahrain Grand Prix,hulkenberg,17,17,13.7567554375479
+1074,2022,Bahrain Grand Prix,perez,4,18,5.016727548411985
+1074,2022,Bahrain Grand Prix,ricciardo,18,14,13.638135949904056
+1074,2022,Bahrain Grand Prix,bottas,6,6,8.314240879511715
+1074,2022,Bahrain Grand Prix,kevin_magnussen,7,5,12.170554474068483
+1074,2022,Bahrain Grand Prix,max_verstappen,2,19,2.6869249737430274
+1074,2022,Bahrain Grand Prix,sainz,3,2,5.0263188513121495
+1074,2022,Bahrain Grand Prix,ocon,11,7,9.81262240516857
+1074,2022,Bahrain Grand Prix,stroll,19,12,14.496970296186767
+1074,2022,Bahrain Grand Prix,gasly,10,20,10.147667460591208
+1074,2022,Bahrain Grand Prix,leclerc,1,1,3.803776652123644
+1074,2022,Bahrain Grand Prix,norris,13,15,12.69664645855808
+1074,2022,Bahrain Grand Prix,russell,9,4,11.21262641450265
+1074,2022,Bahrain Grand Prix,albon,14,13,14.6735849466729
+1074,2022,Bahrain Grand Prix,latifi,20,16,17.06565987650789
+1074,2022,Bahrain Grand Prix,tsunoda,16,8,12.694679672570452
+1074,2022,Bahrain Grand Prix,mick_schumacher,12,11,14.919127442985557
+1074,2022,Bahrain Grand Prix,zhou,15,10,13.515745929934104
+1075,2022,Saudi Arabian Grand Prix,hamilton,15,10,10.966770441203428
+1075,2022,Saudi Arabian Grand Prix,alonso,7,16,8.398500271275939
+1075,2022,Saudi Arabian Grand Prix,hulkenberg,17,12,14.313586473750368
+1075,2022,Saudi Arabian Grand Prix,perez,1,4,6.440650018032952
+1075,2022,Saudi Arabian Grand Prix,ricciardo,14,17,11.517627690555189
+1075,2022,Saudi Arabian Grand Prix,bottas,8,15,9.095397870558955
+1075,2022,Saudi Arabian Grand Prix,kevin_magnussen,10,9,13.323741830037406
+1075,2022,Saudi Arabian Grand Prix,max_verstappen,4,1,6.067183649896477
+1075,2022,Saudi Arabian Grand Prix,sainz,3,3,3.363783141396379
+1075,2022,Saudi Arabian Grand Prix,ocon,5,6,7.112708955869333
+1075,2022,Saudi Arabian Grand Prix,stroll,13,13,13.133568081950745
+1075,2022,Saudi Arabian Grand Prix,gasly,9,8,9.920797457677208
+1075,2022,Saudi Arabian Grand Prix,leclerc,2,2,3.866802640572128
+1075,2022,Saudi Arabian Grand Prix,norris,11,7,10.930675668624813
+1075,2022,Saudi Arabian Grand Prix,russell,6,5,7.220128739846072
+1075,2022,Saudi Arabian Grand Prix,albon,16,14,14.927859322948926
+1075,2022,Saudi Arabian Grand Prix,latifi,18,18,15.920393731694743
+1075,2022,Saudi Arabian Grand Prix,tsunoda,19,19,14.287385043828214
+1075,2022,Saudi Arabian Grand Prix,mick_schumacher,20,20,14.772644912087223
+1075,2022,Saudi Arabian Grand Prix,zhou,12,11,13.034402356963986
+1076,2022,Australian Grand Prix,hamilton,5,4,7.741367212837205
+1076,2022,Australian Grand Prix,alonso,10,17,10.209939045478471
+1076,2022,Australian Grand Prix,vettel,17,19,14.52403507590924
+1076,2022,Australian Grand Prix,perez,3,2,5.616299796305399
+1076,2022,Australian Grand Prix,ricciardo,7,6,10.023433669938601
+1076,2022,Australian Grand Prix,bottas,12,8,11.061514066255627
+1076,2022,Australian Grand Prix,kevin_magnussen,16,14,15.010302585115944
+1076,2022,Australian Grand Prix,max_verstappen,2,18,4.077347376176641
+1076,2022,Australian Grand Prix,sainz,9,20,7.709933576424287
+1076,2022,Australian Grand Prix,ocon,8,7,8.328461892530276
+1076,2022,Australian Grand Prix,stroll,19,12,15.212076301277039
+1076,2022,Australian Grand Prix,gasly,11,9,11.945938039455623
+1076,2022,Australian Grand Prix,leclerc,1,1,2.4697324582282514
+1076,2022,Australian Grand Prix,norris,4,5,5.584673954798449
+1076,2022,Australian Grand Prix,russell,6,3,7.4304847530478915
+1076,2022,Australian Grand Prix,albon,20,10,15.425522222472258
+1076,2022,Australian Grand Prix,latifi,18,16,16.38981362031129
+1076,2022,Australian Grand Prix,tsunoda,13,15,13.08040122136732
+1076,2022,Australian Grand Prix,mick_schumacher,15,13,15.352094260448684
+1076,2022,Australian Grand Prix,zhou,14,11,14.010451023586292
+1077,2022,Emilia Romagna Grand Prix,hamilton,14,13,10.896678894864456
+1077,2022,Emilia Romagna Grand Prix,alonso,9,19,9.97987095476152
+1077,2022,Emilia Romagna Grand Prix,vettel,13,8,13.159755681750372
+1077,2022,Emilia Romagna Grand Prix,perez,3,2,6.929835613402641
+1077,2022,Emilia Romagna Grand Prix,ricciardo,6,18,7.331045266606699
+1077,2022,Emilia Romagna Grand Prix,bottas,7,5,9.106229116866734
+1077,2022,Emilia Romagna Grand Prix,kevin_magnussen,8,9,8.905771710393996
+1077,2022,Emilia Romagna Grand Prix,max_verstappen,1,1,5.444578069865492
+1077,2022,Emilia Romagna Grand Prix,sainz,4,20,7.397335802251744
+1077,2022,Emilia Romagna Grand Prix,ocon,16,14,12.736781424298783
+1077,2022,Emilia Romagna Grand Prix,stroll,15,10,15.006123220752658
+1077,2022,Emilia Romagna Grand Prix,gasly,17,12,13.767404679079622
+1077,2022,Emilia Romagna Grand Prix,leclerc,2,6,3.679368194548014
+1077,2022,Emilia Romagna Grand Prix,norris,5,3,6.612599549198094
+1077,2022,Emilia Romagna Grand Prix,russell,11,4,11.010718777556479
+1077,2022,Emilia Romagna Grand Prix,albon,18,11,16.279881143896645
+1077,2022,Emilia Romagna Grand Prix,latifi,19,16,14.82250930080681
+1077,2022,Emilia Romagna Grand Prix,tsunoda,12,7,13.308082628421642
+1077,2022,Emilia Romagna Grand Prix,mick_schumacher,10,17,13.903678572988234
+1077,2022,Emilia Romagna Grand Prix,zhou,20,15,15.031790335280645
+1078,2022,Miami Grand Prix,hamilton,6,6,6.624499226307491
+1078,2022,Miami Grand Prix,alonso,11,11,12.610042508249395
+1078,2022,Miami Grand Prix,vettel,21,17,14.141327702462386
+1078,2022,Miami Grand Prix,perez,4,4,6.846122464127495
+1078,2022,Miami Grand Prix,ricciardo,14,13,12.800799864660558
+1078,2022,Miami Grand Prix,bottas,5,7,7.8504158943017925
+1078,2022,Miami Grand Prix,kevin_magnussen,16,16,12.916968916776842
+1078,2022,Miami Grand Prix,max_verstappen,3,1,5.422610959491458
+1078,2022,Miami Grand Prix,sainz,2,3,4.5134339367003555
+1078,2022,Miami Grand Prix,ocon,20,8,12.645341279401027
+1078,2022,Miami Grand Prix,stroll,21,10,13.318954752602762
+1078,2022,Miami Grand Prix,gasly,7,18,8.70408635166504
+1078,2022,Miami Grand Prix,leclerc,1,2,2.582880757663631
+1078,2022,Miami Grand Prix,norris,8,19,9.218509810162475
+1078,2022,Miami Grand Prix,russell,12,5,9.403682854428192
+1078,2022,Miami Grand Prix,albon,18,9,16.20937496725044
+1078,2022,Miami Grand Prix,latifi,19,14,15.769331558081971
+1078,2022,Miami Grand Prix,tsunoda,9,12,11.440920515068296
+1078,2022,Miami Grand Prix,mick_schumacher,15,15,13.23526623971461
+1078,2022,Miami Grand Prix,zhou,17,20,14.53005857516346
+1079,2022,Spanish Grand Prix,hamilton,6,5,7.244733930725318
+1079,2022,Spanish Grand Prix,alonso,20,9,14.79792903619083
+1079,2022,Spanish Grand Prix,vettel,16,11,13.447385311332516
+1079,2022,Spanish Grand Prix,perez,5,2,6.460104146325583
+1079,2022,Spanish Grand Prix,ricciardo,9,12,9.607821433007391
+1079,2022,Spanish Grand Prix,bottas,7,6,7.6788993311080445
+1079,2022,Spanish Grand Prix,kevin_magnussen,8,17,11.042657634064343
+1079,2022,Spanish Grand Prix,max_verstappen,2,1,4.372946630516473
+1079,2022,Spanish Grand Prix,sainz,3,4,4.758316655002228
+1079,2022,Spanish Grand Prix,ocon,12,7,11.794744636932277
+1079,2022,Spanish Grand Prix,stroll,17,15,13.307477328696027
+1079,2022,Spanish Grand Prix,gasly,14,13,12.618472403097494
+1079,2022,Spanish Grand Prix,leclerc,1,20,2.301190842984896
+1079,2022,Spanish Grand Prix,norris,11,8,12.580751972990118
+1079,2022,Spanish Grand Prix,russell,4,3,5.097232070216816
+1079,2022,Spanish Grand Prix,albon,18,18,15.085226760743462
+1079,2022,Spanish Grand Prix,latifi,19,16,15.716415796073289
+1079,2022,Spanish Grand Prix,tsunoda,13,10,12.086980145084278
+1079,2022,Spanish Grand Prix,mick_schumacher,10,14,13.298631201713224
+1079,2022,Spanish Grand Prix,zhou,15,19,13.980563104987432
+1080,2022,Monaco Grand Prix,hamilton,8,8,9.399970417827836
+1080,2022,Monaco Grand Prix,alonso,7,7,9.816814523521993
+1080,2022,Monaco Grand Prix,vettel,9,10,11.07019034436483
+1080,2022,Monaco Grand Prix,perez,3,1,4.382281518914086
+1080,2022,Monaco Grand Prix,ricciardo,14,13,12.686777695563277
+1080,2022,Monaco Grand Prix,bottas,12,9,11.459355079935738
+1080,2022,Monaco Grand Prix,kevin_magnussen,13,20,13.20661832025701
+1080,2022,Monaco Grand Prix,max_verstappen,4,3,5.690125792721033
+1080,2022,Monaco Grand Prix,sainz,2,2,5.215626261381888
+1080,2022,Monaco Grand Prix,ocon,10,12,11.373561823306478
+1080,2022,Monaco Grand Prix,stroll,18,14,13.5503332945914
+1080,2022,Monaco Grand Prix,gasly,17,11,13.717206103648401
+1080,2022,Monaco Grand Prix,leclerc,1,4,4.861910808858646
+1080,2022,Monaco Grand Prix,norris,5,6,8.693614941703318
+1080,2022,Monaco Grand Prix,russell,6,5,7.297372578219294
+1080,2022,Monaco Grand Prix,albon,16,18,15.656325964678821
+1080,2022,Monaco Grand Prix,latifi,19,15,16.8739620197158
+1080,2022,Monaco Grand Prix,tsunoda,11,17,12.275211969640546
+1080,2022,Monaco Grand Prix,mick_schumacher,15,19,15.916624935490534
+1080,2022,Monaco Grand Prix,zhou,20,16,14.161994124046089
+1081,2022,Azerbaijan Grand Prix,hamilton,7,4,8.04381275419896
+1081,2022,Azerbaijan Grand Prix,alonso,10,7,12.243282673737594
+1081,2022,Azerbaijan Grand Prix,vettel,9,6,11.03057178965643
+1081,2022,Azerbaijan Grand Prix,perez,2,2,4.476656369016803
+1081,2022,Azerbaijan Grand Prix,ricciardo,12,8,11.068828646883574
+1081,2022,Azerbaijan Grand Prix,bottas,15,11,12.301993229541143
+1081,2022,Azerbaijan Grand Prix,kevin_magnussen,16,17,14.931843607746654
+1081,2022,Azerbaijan Grand Prix,max_verstappen,3,1,5.28101507100401
+1081,2022,Azerbaijan Grand Prix,sainz,4,20,5.805522333356435
+1081,2022,Azerbaijan Grand Prix,ocon,13,10,14.016493231384926
+1081,2022,Azerbaijan Grand Prix,stroll,19,16,13.541628272678865
+1081,2022,Azerbaijan Grand Prix,gasly,6,5,8.650575817544686
+1081,2022,Azerbaijan Grand Prix,leclerc,1,19,5.0376486606209525
+1081,2022,Azerbaijan Grand Prix,norris,11,9,9.755166651051368
+1081,2022,Azerbaijan Grand Prix,russell,5,3,7.448725781317227
+1081,2022,Azerbaijan Grand Prix,albon,17,12,15.6733011338018
+1081,2022,Azerbaijan Grand Prix,latifi,18,15,16.10543991348489
+1081,2022,Azerbaijan Grand Prix,tsunoda,8,13,9.596908533904168
+1081,2022,Azerbaijan Grand Prix,mick_schumacher,20,14,16.004714739908074
+1081,2022,Azerbaijan Grand Prix,zhou,14,18,13.645704406151262
+1082,2022,Canadian Grand Prix,hamilton,4,3,5.208298773490584
+1082,2022,Canadian Grand Prix,alonso,2,9,6.262878193859257
+1082,2022,Canadian Grand Prix,vettel,16,12,13.645815453506748
+1082,2022,Canadian Grand Prix,perez,13,20,7.888165347055951
+1082,2022,Canadian Grand Prix,ricciardo,9,11,9.979137025915897
+1082,2022,Canadian Grand Prix,bottas,11,7,10.295254558074717
+1082,2022,Canadian Grand Prix,kevin_magnussen,5,17,10.466994019858854
+1082,2022,Canadian Grand Prix,max_verstappen,1,1,2.3346643698821983
+1082,2022,Canadian Grand Prix,sainz,3,2,5.588158243900978
+1082,2022,Canadian Grand Prix,ocon,7,6,8.569424282635152
+1082,2022,Canadian Grand Prix,stroll,17,10,14.099055052972526
+1082,2022,Canadian Grand Prix,gasly,15,14,13.007398232597076
+1082,2022,Canadian Grand Prix,leclerc,19,5,11.65007398886702
+1082,2022,Canadian Grand Prix,norris,14,15,13.795586986878133
+1082,2022,Canadian Grand Prix,russell,8,4,8.361824820909597
+1082,2022,Canadian Grand Prix,albon,12,13,13.318376525619051
+1082,2022,Canadian Grand Prix,latifi,18,16,16.200743345998454
+1082,2022,Canadian Grand Prix,tsunoda,20,18,13.185317593833872
+1082,2022,Canadian Grand Prix,mick_schumacher,6,19,10.658790142944998
+1082,2022,Canadian Grand Prix,zhou,10,8,12.258215800562127
+1083,2022,British Grand Prix,hamilton,5,3,6.829373230036897
+1083,2022,British Grand Prix,alonso,7,5,8.354832765378182
+1083,2022,British Grand Prix,vettel,18,9,12.822298570952004
+1083,2022,British Grand Prix,perez,4,2,6.49482986774334
+1083,2022,British Grand Prix,ricciardo,14,13,12.411190415227415
+1083,2022,British Grand Prix,bottas,12,17,10.36311027178533
+1083,2022,British Grand Prix,kevin_magnussen,17,10,14.742152164397199
+1083,2022,British Grand Prix,max_verstappen,2,7,3.999825122474099
+1083,2022,British Grand Prix,sainz,1,1,4.636369957161671
+1083,2022,British Grand Prix,ocon,15,15,12.055540135600113
+1083,2022,British Grand Prix,stroll,20,11,13.647311017018204
+1083,2022,British Grand Prix,gasly,11,16,12.485216859173663
+1083,2022,British Grand Prix,leclerc,3,4,5.053367799842771
+1083,2022,British Grand Prix,norris,6,6,8.133427894751627
+1083,2022,British Grand Prix,russell,8,18,8.394764436710334
+1083,2022,British Grand Prix,albon,16,20,14.532111300112367
+1083,2022,British Grand Prix,latifi,10,12,13.689079601460971
+1083,2022,British Grand Prix,tsunoda,13,14,12.805317373903636
+1083,2022,British Grand Prix,mick_schumacher,19,8,15.061923436240194
+1083,2022,British Grand Prix,zhou,9,19,12.161957683931142
+1084,2022,Austrian Grand Prix,hamilton,8,3,9.207884906665496
+1084,2022,Austrian Grand Prix,alonso,19,10,12.281101717710905
+1084,2022,Austrian Grand Prix,vettel,18,17,13.30185298561908
+1084,2022,Austrian Grand Prix,perez,5,20,6.3233873718876135
+1084,2022,Austrian Grand Prix,ricciardo,11,9,12.25940687938221
+1084,2022,Austrian Grand Prix,bottas,20,11,12.34254568806259
+1084,2022,Austrian Grand Prix,kevin_magnussen,7,8,10.93559053288365
+1084,2022,Austrian Grand Prix,max_verstappen,1,2,3.20783978186689
+1084,2022,Austrian Grand Prix,sainz,3,18,5.913759112641874
+1084,2022,Austrian Grand Prix,ocon,6,5,9.107494995801112
+1084,2022,Austrian Grand Prix,stroll,12,13,13.184385017993549
+1084,2022,Austrian Grand Prix,gasly,14,15,12.798522004638407
+1084,2022,Austrian Grand Prix,leclerc,2,1,4.902661167217752
+1084,2022,Austrian Grand Prix,norris,10,7,12.119274240336273
+1084,2022,Austrian Grand Prix,russell,4,4,5.363553403563864
+1084,2022,Austrian Grand Prix,albon,15,12,14.179748883526209
+1084,2022,Austrian Grand Prix,latifi,17,19,15.429436017692314
+1084,2022,Austrian Grand Prix,tsunoda,16,16,13.305076376967206
+1084,2022,Austrian Grand Prix,mick_schumacher,9,6,11.839328019069683
+1084,2022,Austrian Grand Prix,zhou,13,14,12.849794580994972
+1085,2022,French Grand Prix,hamilton,4,2,4.517878845975886
+1085,2022,French Grand Prix,alonso,7,6,8.700726608181377
+1085,2022,French Grand Prix,vettel,12,11,12.482659077693917
+1085,2022,French Grand Prix,perez,3,4,4.1451637429310635
+1085,2022,French Grand Prix,ricciardo,9,9,9.427002967267127
+1085,2022,French Grand Prix,bottas,11,14,12.630469917583072
+1085,2022,French Grand Prix,kevin_magnussen,20,18,13.337614162151024
+1085,2022,French Grand Prix,max_verstappen,2,1,4.55325718648007
+1085,2022,French Grand Prix,sainz,19,5,10.884804469327761
+1085,2022,French Grand Prix,ocon,10,8,11.719331054653514
+1085,2022,French Grand Prix,stroll,15,10,14.165102815498534
+1085,2022,French Grand Prix,gasly,14,12,13.82931756105006
+1085,2022,French Grand Prix,leclerc,1,19,3.8982452853038376
+1085,2022,French Grand Prix,norris,5,7,8.337033310716599
+1085,2022,French Grand Prix,russell,6,3,6.766106563018897
+1085,2022,French Grand Prix,albon,13,13,15.181367051286186
+1085,2022,French Grand Prix,latifi,18,17,16.042409254403378
+1085,2022,French Grand Prix,tsunoda,8,20,12.385304338579983
+1085,2022,French Grand Prix,mick_schumacher,17,15,14.209770468240698
+1085,2022,French Grand Prix,zhou,16,16,13.384423011885241
+1086,2022,Hungarian Grand Prix,hamilton,7,2,8.085027015334902
+1086,2022,Hungarian Grand Prix,alonso,6,8,8.36071922289839
+1086,2022,Hungarian Grand Prix,vettel,18,10,13.774034206671764
+1086,2022,Hungarian Grand Prix,perez,11,5,7.452016321142814
+1086,2022,Hungarian Grand Prix,ricciardo,9,15,9.588510197474157
+1086,2022,Hungarian Grand Prix,bottas,8,20,10.374175575078553
+1086,2022,Hungarian Grand Prix,kevin_magnussen,13,16,12.683076241867761
+1086,2022,Hungarian Grand Prix,max_verstappen,10,1,6.7382601489348595
+1086,2022,Hungarian Grand Prix,sainz,2,4,4.967782543935009
+1086,2022,Hungarian Grand Prix,ocon,5,9,9.82510474631236
+1086,2022,Hungarian Grand Prix,stroll,14,11,14.19824787061617
+1086,2022,Hungarian Grand Prix,gasly,20,12,14.651677391986755
+1086,2022,Hungarian Grand Prix,leclerc,3,6,5.415192340086133
+1086,2022,Hungarian Grand Prix,norris,4,7,6.411584135220331
+1086,2022,Hungarian Grand Prix,russell,1,3,2.664754298101293
+1086,2022,Hungarian Grand Prix,albon,17,17,14.750812867047546
+1086,2022,Hungarian Grand Prix,latifi,19,18,15.776599874163486
+1086,2022,Hungarian Grand Prix,tsunoda,16,19,13.926831868952952
+1086,2022,Hungarian Grand Prix,mick_schumacher,15,14,12.643170408981007
+1086,2022,Hungarian Grand Prix,zhou,12,13,13.474808044554507
+1087,2022,Belgian Grand Prix,hamilton,4,20,7.038158401404747
+1087,2022,Belgian Grand Prix,alonso,3,5,7.056619205652197
+1087,2022,Belgian Grand Prix,vettel,10,8,12.084432107206258
+1087,2022,Belgian Grand Prix,perez,2,2,4.691550554086623
+1087,2022,Belgian Grand Prix,ricciardo,7,15,9.428974026997471
+1087,2022,Belgian Grand Prix,bottas,13,19,12.896712272559535
+1087,2022,Belgian Grand Prix,kevin_magnussen,12,16,12.661868713778937
+1087,2022,Belgian Grand Prix,max_verstappen,14,1,6.900049205403904
+1087,2022,Belgian Grand Prix,sainz,1,3,3.737346802348904
+1087,2022,Belgian Grand Prix,ocon,16,7,11.470109628831414
+1087,2022,Belgian Grand Prix,stroll,9,11,12.696901514894238
+1087,2022,Belgian Grand Prix,gasly,20,9,13.142579560244059
+1087,2022,Belgian Grand Prix,leclerc,15,6,8.278300833194866
+1087,2022,Belgian Grand Prix,norris,17,12,11.680362478364001
+1087,2022,Belgian Grand Prix,russell,5,4,7.121587677890748
+1087,2022,Belgian Grand Prix,albon,6,10,10.403415191877501
+1087,2022,Belgian Grand Prix,latifi,11,18,15.593744865289846
+1087,2022,Belgian Grand Prix,tsunoda,20,13,14.932285258738482
+1087,2022,Belgian Grand Prix,mick_schumacher,19,17,13.80792658557529
+1087,2022,Belgian Grand Prix,zhou,18,14,14.176979853563559
+1088,2022,Dutch Grand Prix,hamilton,4,4,5.8520005441476775
+1088,2022,Dutch Grand Prix,alonso,13,6,11.046900253808143
+1088,2022,Dutch Grand Prix,vettel,19,14,14.256815744667113
+1088,2022,Dutch Grand Prix,perez,5,5,5.945196717353522
+1088,2022,Dutch Grand Prix,ricciardo,17,17,14.0622443690739
+1088,2022,Dutch Grand Prix,bottas,16,19,13.951468293587483
+1088,2022,Dutch Grand Prix,kevin_magnussen,18,15,13.807428411886168
+1088,2022,Dutch Grand Prix,max_verstappen,1,1,2.076134296349754
+1088,2022,Dutch Grand Prix,sainz,3,8,4.070539907714939
+1088,2022,Dutch Grand Prix,ocon,12,9,10.707974740856839
+1088,2022,Dutch Grand Prix,stroll,10,10,11.826096453001062
+1088,2022,Dutch Grand Prix,gasly,11,11,11.371462014145008
+1088,2022,Dutch Grand Prix,leclerc,2,3,5.312837752528962
+1088,2022,Dutch Grand Prix,norris,7,7,8.388923312573148
+1088,2022,Dutch Grand Prix,russell,6,2,6.707104067515092
+1088,2022,Dutch Grand Prix,albon,15,12,15.856157939815036
+1088,2022,Dutch Grand Prix,latifi,20,18,16.96162152277634
+1088,2022,Dutch Grand Prix,tsunoda,9,20,12.922880029719051
+1088,2022,Dutch Grand Prix,mick_schumacher,8,13,13.027040398101029
+1088,2022,Dutch Grand Prix,zhou,14,16,14.814035887213725
+1089,2022,Italian Grand Prix,hamilton,19,5,7.925890931355643
+1089,2022,Italian Grand Prix,alonso,6,19,9.217074982461094
+1089,2022,Italian Grand Prix,vettel,11,20,12.62911219134317
+1089,2022,Italian Grand Prix,perez,13,6,7.186575660471491
+1089,2022,Italian Grand Prix,ricciardo,4,17,8.496603681500812
+1089,2022,Italian Grand Prix,bottas,15,13,12.954448619977958
+1089,2022,Italian Grand Prix,kevin_magnussen,16,16,14.337563531711288
+1089,2022,Italian Grand Prix,max_verstappen,7,1,5.411063490899364
+1089,2022,Italian Grand Prix,sainz,18,4,7.769119322675922
+1089,2022,Italian Grand Prix,ocon,14,11,10.930803443310438
+1089,2022,Italian Grand Prix,stroll,12,18,13.211675092607534
+1089,2022,Italian Grand Prix,gasly,5,8,10.090685208234285
+1089,2022,Italian Grand Prix,leclerc,1,2,3.699448984967098
+1089,2022,Italian Grand Prix,norris,3,7,6.988571904389925
+1089,2022,Italian Grand Prix,russell,2,3,5.411040560094242
+1089,2022,Italian Grand Prix,latifi,10,15,13.833718499633925
+1089,2022,Italian Grand Prix,tsunoda,20,14,14.22416441085681
+1089,2022,Italian Grand Prix,mick_schumacher,17,12,14.124679672512586
+1089,2022,Italian Grand Prix,zhou,9,10,13.544048473645367
+1089,2022,Italian Grand Prix,de_vries,8,9,11.367944520184667
+1091,2022,Singapore Grand Prix,hamilton,3,9,6.403852531572139
+1091,2022,Singapore Grand Prix,alonso,5,18,8.587871100142669
+1091,2022,Singapore Grand Prix,vettel,13,8,12.083586923120745
+1091,2022,Singapore Grand Prix,perez,2,1,4.751991067465868
+1091,2022,Singapore Grand Prix,ricciardo,16,5,13.020169697755279
+1091,2022,Singapore Grand Prix,bottas,15,11,13.456516262991753
+1091,2022,Singapore Grand Prix,kevin_magnussen,9,12,12.658344376020127
+1091,2022,Singapore Grand Prix,max_verstappen,8,7,6.4892516775210405
+1091,2022,Singapore Grand Prix,sainz,4,3,5.836882806821595
+1091,2022,Singapore Grand Prix,ocon,17,16,11.062568584772798
+1091,2022,Singapore Grand Prix,stroll,11,6,12.279949626302272
+1091,2022,Singapore Grand Prix,gasly,7,10,9.730285785065405
+1091,2022,Singapore Grand Prix,leclerc,1,2,3.954150775818107
+1091,2022,Singapore Grand Prix,norris,6,4,7.043502582889569
+1091,2022,Singapore Grand Prix,russell,20,14,8.098264833657028
+1091,2022,Singapore Grand Prix,albon,18,17,14.756000312159182
+1091,2022,Singapore Grand Prix,latifi,19,19,15.560434422002372
+1091,2022,Singapore Grand Prix,tsunoda,10,15,12.61435077079113
+1091,2022,Singapore Grand Prix,mick_schumacher,12,13,14.008949263896868
+1091,2022,Singapore Grand Prix,zhou,14,20,14.845128950080126
+1092,2022,Japanese Grand Prix,hamilton,6,5,7.441013233103924
+1092,2022,Japanese Grand Prix,alonso,7,7,9.624677942673197
+1092,2022,Japanese Grand Prix,vettel,9,6,10.648298434866618
+1092,2022,Japanese Grand Prix,perez,4,2,5.731314936333984
+1092,2022,Japanese Grand Prix,ricciardo,11,11,10.271380512951266
+1092,2022,Japanese Grand Prix,bottas,12,15,12.421737287442516
+1092,2022,Japanese Grand Prix,kevin_magnussen,18,14,14.899891091197533
+1092,2022,Japanese Grand Prix,max_verstappen,1,1,2.1483281180488323
+1092,2022,Japanese Grand Prix,sainz,3,19,5.996392829349571
+1092,2022,Japanese Grand Prix,ocon,5,4,8.332696524637111
+1092,2022,Japanese Grand Prix,stroll,19,12,13.674894070222754
+1092,2022,Japanese Grand Prix,gasly,17,18,12.949146060324784
+1092,2022,Japanese Grand Prix,leclerc,2,3,4.884030936815113
+1092,2022,Japanese Grand Prix,norris,10,10,9.47489521411076
+1092,2022,Japanese Grand Prix,russell,8,8,7.890065714888906
+1092,2022,Japanese Grand Prix,albon,16,20,14.091036469487712
+1092,2022,Japanese Grand Prix,latifi,20,9,15.664649099231598
+1092,2022,Japanese Grand Prix,tsunoda,13,13,12.838432524176534
+1092,2022,Japanese Grand Prix,mick_schumacher,15,17,14.465348277898736
+1092,2022,Japanese Grand Prix,zhou,14,16,15.010759667947159
+1093,2022,United States Grand Prix,hamilton,3,2,6.661485177554133
+1093,2022,United States Grand Prix,alonso,14,7,10.541667190310163
+1093,2022,United States Grand Prix,vettel,10,8,10.743431035889534
+1093,2022,United States Grand Prix,perez,9,4,5.9152660485994915
+1093,2022,United States Grand Prix,ricciardo,15,16,12.006726613187249
+1093,2022,United States Grand Prix,bottas,7,19,10.350992490579872
+1093,2022,United States Grand Prix,kevin_magnussen,13,9,14.943024728166295
+1093,2022,United States Grand Prix,max_verstappen,2,1,3.8753311674811086
+1093,2022,United States Grand Prix,sainz,1,20,3.6560594647235765
+1093,2022,United States Grand Prix,ocon,20,11,10.545412630268578
+1093,2022,United States Grand Prix,stroll,5,18,10.618032150178017
+1093,2022,United States Grand Prix,gasly,11,14,12.887278752091142
+1093,2022,United States Grand Prix,leclerc,12,3,6.753321855391932
+1093,2022,United States Grand Prix,norris,6,6,8.618003243054149
+1093,2022,United States Grand Prix,russell,4,5,6.590745668602769
+1093,2022,United States Grand Prix,albon,8,13,10.707367540965429
+1093,2022,United States Grand Prix,latifi,17,17,15.711597707922362
+1093,2022,United States Grand Prix,tsunoda,19,10,14.189463461975166
+1093,2022,United States Grand Prix,mick_schumacher,16,15,14.961765768542918
+1093,2022,United States Grand Prix,zhou,18,12,14.759055957924975
+1094,2022,Mexico City Grand Prix,hamilton,3,2,6.486490344265891
+1094,2022,Mexico City Grand Prix,alonso,9,19,9.03758395574401
+1094,2022,Mexico City Grand Prix,vettel,16,14,13.54773176922216
+1094,2022,Mexico City Grand Prix,perez,4,3,6.081087380416593
+1094,2022,Mexico City Grand Prix,ricciardo,11,7,9.145693864824842
+1094,2022,Mexico City Grand Prix,bottas,6,10,9.232117495336988
+1094,2022,Mexico City Grand Prix,kevin_magnussen,19,17,14.579906567336979
+1094,2022,Mexico City Grand Prix,max_verstappen,1,1,2.887515743854294
+1094,2022,Mexico City Grand Prix,sainz,5,5,6.684386042266637
+1094,2022,Mexico City Grand Prix,ocon,10,8,8.877259460173624
+1094,2022,Mexico City Grand Prix,stroll,20,15,13.485088076709179
+1094,2022,Mexico City Grand Prix,gasly,14,11,13.29072396038443
+1094,2022,Mexico City Grand Prix,leclerc,7,6,7.340363801565939
+1094,2022,Mexico City Grand Prix,norris,8,9,9.579440466308471
+1094,2022,Mexico City Grand Prix,russell,2,4,4.543513383129381
+1094,2022,Mexico City Grand Prix,albon,17,12,14.553787540810532
+1094,2022,Mexico City Grand Prix,latifi,18,18,15.731293989695802
+1094,2022,Mexico City Grand Prix,tsunoda,13,20,13.437763066575458
+1094,2022,Mexico City Grand Prix,mick_schumacher,15,16,14.109249992789227
+1094,2022,Mexico City Grand Prix,zhou,12,13,14.463223831225065
+1095,2022,São Paulo Grand Prix,hamilton,2,2,6.848020325516093
+1095,2022,São Paulo Grand Prix,alonso,17,5,10.677308600369198
+1095,2022,São Paulo Grand Prix,vettel,9,11,11.59270095713107
+1095,2022,São Paulo Grand Prix,perez,4,7,6.908777219905334
+1095,2022,São Paulo Grand Prix,ricciardo,11,20,10.921051930941447
+1095,2022,São Paulo Grand Prix,bottas,14,9,13.847782812124757
+1095,2022,São Paulo Grand Prix,kevin_magnussen,8,19,9.862489863520308
+1095,2022,São Paulo Grand Prix,max_verstappen,3,6,3.872665158869806
+1095,2022,São Paulo Grand Prix,sainz,7,3,6.747543924755501
+1095,2022,São Paulo Grand Prix,ocon,16,8,10.142162117407501
+1095,2022,São Paulo Grand Prix,stroll,15,10,12.72997046340561
+1095,2022,São Paulo Grand Prix,gasly,10,14,12.053544922331444
+1095,2022,São Paulo Grand Prix,leclerc,5,4,6.922232973432054
+1095,2022,São Paulo Grand Prix,norris,6,18,7.233823241126271
+1095,2022,São Paulo Grand Prix,russell,1,1,5.032012696288615
+1095,2022,São Paulo Grand Prix,albon,19,15,14.724743473221652
+1095,2022,São Paulo Grand Prix,latifi,18,16,15.128361894742124
+1095,2022,São Paulo Grand Prix,tsunoda,20,17,14.212449097090506
+1095,2022,São Paulo Grand Prix,mick_schumacher,12,13,14.694433686153559
+1095,2022,São Paulo Grand Prix,zhou,13,12,13.822666744376939
+1096,2022,Abu Dhabi Grand Prix,hamilton,5,18,7.283678192533591
+1096,2022,Abu Dhabi Grand Prix,alonso,10,20,8.5850168933644
+1096,2022,Abu Dhabi Grand Prix,vettel,9,10,10.08481224094805
+1096,2022,Abu Dhabi Grand Prix,perez,2,3,3.059883564204298
+1096,2022,Abu Dhabi Grand Prix,ricciardo,13,9,10.834825153010314
+1096,2022,Abu Dhabi Grand Prix,bottas,18,15,14.036462418711613
+1096,2022,Abu Dhabi Grand Prix,kevin_magnussen,16,17,14.720010142889105
+1096,2022,Abu Dhabi Grand Prix,max_verstappen,1,1,2.958442980806984
+1096,2022,Abu Dhabi Grand Prix,sainz,4,4,6.987634595883395
+1096,2022,Abu Dhabi Grand Prix,ocon,8,7,8.836160759830292
+1096,2022,Abu Dhabi Grand Prix,stroll,14,8,13.396391537229546
+1096,2022,Abu Dhabi Grand Prix,gasly,17,14,14.458641895018275
+1096,2022,Abu Dhabi Grand Prix,leclerc,3,2,4.149469322451254
+1096,2022,Abu Dhabi Grand Prix,norris,7,6,8.184640922255582
+1096,2022,Abu Dhabi Grand Prix,russell,6,5,6.061355278252134
+1096,2022,Abu Dhabi Grand Prix,albon,19,13,14.981188855940943
+1096,2022,Abu Dhabi Grand Prix,latifi,20,19,16.794829012208723
+1096,2022,Abu Dhabi Grand Prix,tsunoda,11,11,11.919760425771386
+1096,2022,Abu Dhabi Grand Prix,mick_schumacher,12,16,13.899663102334761
+1096,2022,Abu Dhabi Grand Prix,zhou,15,12,13.996755204881413

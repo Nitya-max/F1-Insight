@@ -1,0 +1,9 @@
+search-path = ["src", "app"]
+
+[errors]
+no-matching-overload = false
+bad-argument-type = false
+unsupported-operation = false
+missing-attribute = false
+untyped-import = false
+unnecessary-type-conversion = false
